@@ -1,0 +1,620 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* ANIMATIONS */
+
+@-webkit-keyframes heartPulse
+{
+	0%		{-webkit-transform: scale(.95);}
+	5%		{-webkit-transform: scale(1);}
+	10%		{-webkit-transform: scale(.9);}
+	15%		{-webkit-transform: scale(1);}
+	20%		{-webkit-transform: scale(.9);}
+	100%	{-webkit-transform: scale(.95);}
+}
+	
+	@-moz-keyframes heartPulse
+	{
+		0%		{-moz-transform: scale(.95);}
+		5%		{-moz-transform: scale(1);}
+		10%		{-moz-transform: scale(.9);}
+		15%		{-moz-transform: scale(1);}
+		20%		{-moz-transform: scale(.9);}
+		100%	{-moz-transform: scale(.95);}
+	}
+	
+	@-ms-keyframes heartPulse
+	{
+		0%		{-ms-transform: scale(.95);}
+		5%		{-ms-transform: scale(1);}
+		10%		{-ms-transform: scale(.9);}
+		15%		{-ms-transform: scale(1);}
+		20%		{-ms-transform: scale(.9);}
+		100%	{-ms-transform: scale(.95);}
+	}
+
+	@-o-keyframes heartPulse
+	{
+		0%		{-o-transform: scale(.95);}
+		5%		{-o-transform: scale(1);}
+		10%		{-o-transform: scale(.9);}
+		15%		{-o-transform: scale(1);}
+		20%		{-o-transform: scale(.9);}
+		100%	{-o-transform: scale(.95);}
+	}
+	
+	@keyframes heartPulse
+	{
+		0%		{transform: scale(.95);}
+		5%		{transform: scale(1);}
+		10%		{transform: scale(.9);}
+		15%		{transform: scale(1);}
+		20%		{transform: scale(.9);}
+		100%	{transform: scale(.95);}
+	}
+
+@-webkit-keyframes arrowPoint
+{
+	0%		{-webkit-transform: translateY(-10px);}
+	50%		{-webkit-transform: translateY(10px);}
+	100%	{-webkit-transform: translateY(-10px);}
+}
+	
+	@-moz-keyframes arrowPoint
+	{
+		0%		{-moz-transform: translateY(-10px);}
+		50%		{-moz-transform: translateY(10px);}
+		100%	{-moz-transform: translateY(-10px);}
+	}
+	
+	@-ms-keyframes arrowPoint
+	{
+		0%		{-ms-transform: translateY(-10px);}
+		50%		{-ms-transform: translateY(10px);}
+		100%	{-ms-transform: translateY(-10px);}
+	}
+	
+	@-o-keyframes arrowPoint
+	{
+		0%		{-o-transform: translateY(-10px);}
+		50%		{-o-transform: translateY(10px);}
+		100%	{-o-transform: translateY(-10px);}
+	}
+	
+	@keyframes arrowPoint
+	{
+		0%		{transform: translateY(-10px);}
+		50%		{transform: translateY(10px);}
+		100%	{transform: translateY(-10px);}
+	}
+
+@-webkit-keyframes moneyWave
+{
+	0%		{-webkit-transform: rotate(0deg);}
+	80%		{-webkit-transform: rotate(0deg);}
+	83%		{-webkit-transform: rotate(30deg);}
+	86%		{-webkit-transform: rotate(-30deg);}
+	89%		{-webkit-transform: rotate(30deg);}
+	92%		{-webkit-transform: rotate(-30deg);}
+	95%		{-webkit-transform: rotate(0deg);}
+	100%	{-webkit-transform: rotate(0deg);}
+}
+
+	@-moz-keyframes moneyWave
+	{
+		0%		{-moz-transform: rotate(0deg);}
+		80%		{-moz-transform: rotate(0deg);}
+		83%		{-moz-transform: rotate(30deg);}
+		86%		{-moz-transform: rotate(-30deg);}
+		89%		{-moz-transform: rotate(30deg);}
+		92%		{-moz-transform: rotate(-30deg);}
+		95%		{-moz-transform: rotate(0deg);}
+		100%	{-moz-transform: rotate(0deg);}
+	}
+	
+	@-ms-keyframes moneyWave
+	{
+		0%		{-ms-transform: rotate(0deg);}
+		80%		{-ms-transform: rotate(0deg);}
+		83%		{-ms-transform: rotate(30deg);}
+		86%		{-ms-transform: rotate(-30deg);}
+		89%		{-ms-transform: rotate(30deg);}
+		92%		{-ms-transform: rotate(-30deg);}
+		95%		{-ms-transform: rotate(0deg);}
+		100%	{-ms-transform: rotate(0deg);}
+	}
+	
+	@-o-keyframes moneyWave
+	{
+		0%		{-o-transform: rotate(0deg);}
+		80%		{-o-transform: rotate(0deg);}
+		83%		{-o-transform: rotate(30deg);}
+		86%		{-o-transform: rotate(-30deg);}
+		89%		{-o-transform: rotate(30deg);}
+		92%		{-o-transform: rotate(-30deg);}
+		95%		{-o-transform: rotate(0deg);}
+		100%	{-o-transform: rotate(0deg);}
+	}
+	
+	@keyframes moneyWave
+	{
+		0%		{transform: rotate(0deg);}
+		80%		{transform: rotate(0deg);}
+		83%		{transform: rotate(30deg);}
+		86%		{transform: rotate(-30deg);}
+		89%		{transform: rotate(30deg);}
+		92%		{transform: rotate(-30deg);}
+		95%		{transform: rotate(0deg);}
+		100%	{transform: rotate(0deg);}
+	}
+	
+@-webkit-keyframes sawSpin
+{
+	0%		{-webkit-transform: rotate(0deg);}
+	100%	{-webkit-transform: rotate(360deg);}
+}
+
+	@-moz-keyframes sawSpin
+	{
+		0%		{-moz-transform: rotate(0deg);}
+		100%	{-moz-transform: rotate(360deg);}
+	}
+	
+	@-ms-keyframes sawSpin
+	{
+		0%		{-ms-transform: rotate(0deg);}
+		100%	{-ms-transform: rotate(360deg);}
+	}
+	
+	@-o-keyframes sawSpin
+	{
+		0%		{-o-transform: rotate(0deg);}
+		100%	{-o-transform: rotate(360deg);}
+	}
+	
+	@keyframes sawSpin
+	{
+		0%		{transform: rotate(0deg);}
+		100%	{transform: rotate(360deg);}
+	}
+
+/*BODY*/
+
+
+body{
+	margin:0 0 0 0rem;
+	padding: 0 0 0 0rem;
+}
+
+#wrapper{
+	margin:0 0 0 0px;
+	padding: 0 0 0 0px;
+	width:100%;
+	
+	}
+
+#page{
+	margin: 0 auto;
+	width:100%;
+	/*border-style:solid;
+	border-width:1px;*/
+	}
+	
+.header{
+	background-color: black;
+	height:150px;
+	width:100%;
+}
+
+#logoHolder{
+	position:relative;
+	/*border-style:solid;
+	border-width:1px;
+	border-color:red;
+	*/
+	width:150px;
+	height:100%;
+	display:inline-block;
+	float:left;
+}
+
+#logo{
+	position:absolute;
+	display:inline-block;
+	margin:15px;
+	padding:10px;
+}
+
+.name{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	/*
+	border-style:solid;
+	border-width:1px;
+	border-color:red;
+	*/
+	color:white;
+	display:inline-block;
+	float:left;
+	font-size:1.7em;
+	padding:10px;
+	margin-top:45px;
+	}
+
+.positions{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	/*
+	border-style:solid;
+	border-width:1px;
+	border-color:red;
+	*/
+	color:white;
+	display:inline-block;
+	float:right;
+	font-size:1.7em;
+	padding:10px;
+	margin-top:45px;
+}
+
+#widgetWrapper
+{
+	height:320px;
+	width:100%;
+	text-align:center;
+}
+
+#widgets{
+	margin-top:40px;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+	/*
+	border-style:solid;
+	border-width:1px;
+	border-color:red;	
+	*/
+}
+
+#twitter{
+	/*position: absolute;
+	float:left;
+		margin-top: 75px;
+		margin-left: 50px;
+		height: 150px;
+		width: 150px;
+	*/
+	
+	position: relative;
+	display:inline-block;
+	height: 150px;
+		width: 150px;
+	margin:20px;			
+		background: transparent url('../images/twitterBirdSVG.svg') no-repeat;
+		background-size: cover;
+		
+		-webkit-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-webkit-animation-play-state: running;
+		
+		-moz-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-moz-animation-play-state: running;
+		
+		-ms-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-ms-animation-play-state: running;
+		
+		-o-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-o-animation-play-state: running;
+		
+		animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		animation-play-state: running;	
+}
+
+		#email
+	{
+		/*position: absolute;
+		float: left;
+		margin-top: 75px;
+		margin-left: 300px;
+		
+		height: 150px;
+		width: 150px;
+		*/
+		position: relative;
+	display:inline-block;
+	height: 150px;
+		width: 150px;
+		margin:20px;
+		background: transparent url('../images/email.svg') no-repeat;
+		background-size: cover;
+		
+		-webkit-animation: moneyWave 3s ease-in-out 0s infinite;
+		-webkit-animation-play-state: running;
+		
+		-moz-animation: moneyWave 3s ease-in-out 0s infinite;
+		-moz-animation-play-state: running;
+		
+		-ms-animation: moneyWave 3s ease-in-out 0s infinite;
+		-ms-animation-play-state: running;
+		
+		-o-animation: moneyWave 3s ease-in-out 0s infinite;
+		-o-animation-play-state: running;
+	
+		animation: moneyWave 3s ease-in-out 0s infinite;
+		animation-play-state: running;
+	}
+	
+	#linkedIn{
+		/*
+			position: absolute;
+			float: left;
+			margin-top: 75px;
+			margin-left: 550px;
+			height: 150px;
+			width: 150px;
+		*/
+		position: relative;
+	display:inline-block;
+	height: 150px;
+		width: 150px;
+		margin:20px;
+			background: transparent url('../images/linkedIn.svg') no-repeat;
+			background-size: cover;
+			
+		
+		-webkit-animation: heartPulse 2s ease-in 1s infinite;
+		-webkit-animation-play-state: running;
+		
+		-moz-animation: heartPulse 2s ease-in 1s infinite;
+		-moz-animation-play-state: running;
+		
+		-ms-animation: heartPulse 2s ease-in 1s infinite;
+		-ms-animation-play-state: running;
+		
+		-o-animation: heartPulse 2s ease-in 1s infinite;
+		-o-animation-play-state: running;
+		
+		animation: heartPulse 2s ease-in 1s infinite;
+		animation-play-state: running;
+		}
+	
+		.record
+		{
+			background: transparent url('../images/recordLeft.svg') no-repeat;
+			background-size: cover;
+			
+			-webkit-animation: sawSpin 1.5s linear 0s infinite;
+			-webkit-animation-play-state: running;
+			
+			-moz-animation: sawSpin 1.5s linear 0s infinite;
+			-moz-animation-play-state: running;
+			
+			-ms-animation: sawSpin 1.5s linear 0s infinite;
+			-ms-animation-play-state: running;
+			
+			-o-animation: sawSpin 1.5s linear 0s infinite;
+			-o-animation-play-state: running;
+			
+			animation: sawSpin 1.5s linear 0s infinite;
+			animation-play-state: running;
+			
+			position: absolute;
+			float: left;
+
+			height: 150px;
+			width: 150px;
+		}
+		
+		.recordArm{
+			position: absolute;
+			float: left;
+			height: 150px;
+			width: 150px;
+			
+			background: transparent url('../images/recordLeftArm.svg') no-repeat;
+			background-size: cover;
+		}
+		
+		#recordLeftArm{
+			margin-top: 300px;
+			margin-left: 80px;
+		}
+		
+		#recordRightArm{
+			margin-top: 300px;
+			margin-left: 480px;
+		}
+		
+		#recordLeft{
+			margin-top: 300px;
+			margin-left: 115px;
+		}
+		
+		#recordRight{
+			position: absolute;
+			margin-top: 300px;
+			margin-left: 515px;
+			
+		}
+		
+		
+		#djMixer{
+			position: absolute;
+			float: left;
+			margin-top: 120px;
+			margin-left: 180px;
+			height: 500px;
+			width: 500px;
+			background: transparent url('../images/djMixer.svg') no-repeat;
+			background-size: cover;
+		}
+		
+		
+		
+#wheel
+		{
+			
+			position: absolute;
+			float: left;
+			margin-top: 310px;
+			margin-left: 680px;
+			height: 200px;
+			width: 200px;
+			
+			background: transparent url('../images/wheel.svg') no-repeat;
+			background-size: cover;
+			
+			-webkit-animation: sawSpin 1.5s linear 0s infinite;
+			-webkit-animation-play-state: running;
+			
+			-moz-animation: sawSpin 1.5s linear 0s infinite;
+			-moz-animation-play-state: running;
+			
+			-ms-animation: sawSpin 1.5s linear 0s infinite;
+			-ms-animation-play-state: running;
+			
+			-o-animation: sawSpin 1.5s linear 0s infinite;
+			-o-animation-play-state: running;
+			
+			animation: sawSpin 1.5s linear 0s infinite;
+			animation-play-state: running;
+		}
+	
+
+	
+#slogan{
+	margin-top:50px;
+	text-align:center;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+}
+
+.sloganC{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 1.7em;
+	position:relative;
+	display:inline-block;
+	/*
+	border-style:dashed;
+	border-color:red;
+	*/
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+	padding-bottom: 15px;
+}
+
+
+#about{
+	background-color: black;
+}
+
+
+.heading1{
+		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		color:white;
+		font-size:2em;
+		padding:20px;
+		text-align:center;
+}
+
+.heading2{
+			font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		font-size:1.5em;
+		padding:20px;
+		text-align:center;
+}
+
+.black-bg-text{
+	color: white;
+	width: 80%;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size:1em;
+	margin: 0 auto;
+	padding-bottom: 2.5em;
+}
+
+.white-bg-text{
+	width: 80%;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size:1em;
+	margin: 0 auto;
+	text-align: left;
+	padding-bottom: 1em;
+}
+
+
+a{
+	color: gray;
+}
+
+
+
+.compLanguageDiv{
+	/*
+	border-style:dotted;
+	border-color:red;
+	*/
+	margin: 0 auto;
+	width:80%;
+	position:relative;
+	text-align:center;
+}
+
+.compLanguage{
+	position:relative;
+	display:inline-block;
+	height: 150px;
+	width: 150px;
+	margin:20px;
+			
+	background: transparent url('../images/HTML5-logo.svg') no-repeat;
+	background-size: cover;
+	
+}
+
+
+#projectsHeader{
+	color:black;
+}
+
+.project-image{
+	text-align: center;
+}
+/*
+
+.projects{
+	width: 80%;
+	position: relative;
+	text-align: center;
+}
+
+.project-wrapper{
+	text-align: center;
+	float: center;
+	clear: both;
+}
+
+.project{
+	width: 30%;
+	position: relative;
+	display: inline-block;
+	text-align: center;
+}
+
+#projects{
+	clear: both;
+}
+
+.white-bg-text-project{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size:1em;
+	margin: 0 auto;
+	text-align: left;
+	padding-bottom: 1em;
+}
+*/
+

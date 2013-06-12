@@ -1,0 +1,12 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="45px" height="60px" viewBox="0 0 60 80" enable-background="new 0 0 60 80" xml:space="preserve">
+<g id="svgsvg">
+	<rect id="main-nav-contact-shape" fill="#6B6BCE" fill-opacity="0" width="60" height="80"/>
+	<path id="main-nav-contact-mainpic" fill="#BBBBCC" d="M37.125,0h-14.25c-7.87,0-14.25,6.38-14.25,14.25v28.5
+		c0,7.869,6.38,14.25,14.25,14.25h14.25c7.869,0,14.25-6.381,14.25-14.25v-28.5C51.375,6.38,44.994,0,37.125,0z M30,53.548
+		c-2.029,0-3.673-1.643-3.673-3.673s1.646-3.673,3.673-3.673c2.03,0,3.673,1.643,3.673,3.673S32.03,53.548,30,53.548z M44.25,42.75
+		h-28.5v-28.5c0-3.924,3.198-7.125,7.125-7.125h14.25c3.924,0,7.125,3.201,7.125,7.125V42.75z"/>
+	
+		<text class="nav-icon-svg-text" transform="matrix(1 0 0 1 5.085 77.8555)" fill="#BBBBCC" font-family=""Arial Black", Gadget, sans-serif" font-size="16">contact</text>
+</g>
+</svg>

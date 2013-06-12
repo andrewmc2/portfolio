@@ -1,0 +1,178 @@
+@media screen and (max-width:680px){
+
+.name{
+	display:block;
+}
+
+.header{
+	height:100px;
+}
+
+#logoHolder{
+width:100px;
+height:100px;
+}
+
+#logo{
+width:70px;
+height:70px;
+padding:5px;
+margin:5px;
+}
+
+#firstName{
+margin-top:10px;
+font-size:1.2em;
+}
+	
+#lastName{
+float:left;
+margin-top:40px;
+margin-left:-85px;	
+font-size:1.2em;
+}
+
+#positionOne{
+margin-top:10px;
+font-size:1.2em;
+}
+	
+#positionTwo{
+float:right;
+margin-top:40px;
+margin-right:-65px;
+font-size:1.2em;
+}
+
+#widgetWrapper{
+	margin-top:20px;
+	height:350px;
+}
+
+#widgets{
+	margin-top:50px;
+}
+
+#twitter{
+	height:120px;
+	width: 120px;	
+	margin:10px;
+}
+
+	
+#email{
+	height: 120px;
+	width: 120px;	
+	margin:10px;
+}
+
+#linkedIn{
+	height: 120px;
+	width: 120px;		
+	margin:10px;
+}
+
+.sloganC{
+display: block;
+}
+
+.heading1{
+	font-size:1.5em;
+}
+
+}
+
+@media screen and (max-width:480px){
+.header{
+	height:120px;
+	width:100%;
+}
+	
+#logoHolder{
+margin-left:auto;
+margin-right:auto;
+padding-top:10px;
+padding-bottom:10px;
+float:none;
+position:relative;
+display:block;
+width:50px;
+height:50px;
+clear:both;
+}
+
+#logo{
+	position:relative;
+	width:50px;
+	height:50px;
+	margin:0 auto;
+	padding:0 0 0 0px;
+}
+
+#firstName{
+font-size:1em;
+margin:0 0 0 0px;
+}
+	
+#lastName{
+font-size:1em;
+margin:0 0 0 0px;
+padding-left:0px;
+}
+
+#positionOne{
+font-size:1em;
+margin:0 0 0 0px;
+float:right;
+}
+	
+#positionTwo{
+font-size:1em;
+margin:0 0 0 0px;
+padding-right:0px;
+float:right;
+}
+
+#widgetWrapper{
+	margin-top:20px;
+	height:300px;
+}
+
+#widgets{
+	margin-top:30px;
+}
+
+#twitter{
+	height: 80px;
+	width: 80px;	
+	margin:10px;
+}
+
+	
+#email{
+	height: 80px;
+	width: 80px;	
+	margin:10px;
+}
+
+#linkedIn{
+	height: 80px;
+	width: 80px;		
+	margin:10px;
+}
+
+#recordLeft{
+	height: 80px;
+	width: 80px;	
+}
+
+#recordLeftArm{
+	height: 80px;
+	width: 80px;	
+}
+
+.heading1{
+	font-size:1.2em;
+}
+
+}

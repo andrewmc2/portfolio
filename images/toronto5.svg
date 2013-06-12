@@ -1,0 +1,445 @@
+<svg version="1.1" id="new_stuff" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="3000px" height="400px" viewBox="0 0 3000 400" enable-background="new 0 0 3000 400" xml:space="preserve">
+<rect id="backgroundColor" opacity="0.7" fill="#BBBBCC" width="3000" height="400"/>
+<g id="grid">
+	<g>
+		<rect x="1344.5" y="-231.5" fill="none" stroke="#FF0000" stroke-miterlimit="10" width="4" height="6"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-225.834" x2="1348.5" y2="-225.834"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-226.168" x2="1348.5" y2="-226.168"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-226.499" x2="1348.5" y2="-226.499"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-226.833" x2="1348.5" y2="-226.833"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-227.167" x2="1348.5" y2="-227.167"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-227.501" x2="1348.5" y2="-227.501"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-227.832" x2="1348.5" y2="-227.832"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-228.166" x2="1348.5" y2="-228.166"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-228.5" x2="1348.5" y2="-228.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-228.834" x2="1348.5" y2="-228.834"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-229.168" x2="1348.5" y2="-229.168"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-229.499" x2="1348.5" y2="-229.499"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-229.833" x2="1348.5" y2="-229.833"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-230.167" x2="1348.5" y2="-230.167"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-230.501" x2="1348.5" y2="-230.501"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-230.832" x2="1348.5" y2="-230.832"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.5" y1="-231.166" x2="1348.5" y2="-231.166"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1348.44" y1="-231.5" x2="1348.44" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1348.381" y1="-231.5" x2="1348.381" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1348.321" y1="-231.5" x2="1348.321" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1348.261" y1="-231.5" x2="1348.261" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1348.201" y1="-231.5" x2="1348.201" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1348.142" y1="-231.5" x2="1348.142" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1348.082" y1="-231.5" x2="1348.082" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1348.022" y1="-231.5" x2="1348.022" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.963" y1="-231.5" x2="1347.963" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.903" y1="-231.5" x2="1347.903" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.844" y1="-231.5" x2="1347.844" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.783" y1="-231.5" x2="1347.783" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.724" y1="-231.5" x2="1347.724" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.664" y1="-231.5" x2="1347.664" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.604" y1="-231.5" x2="1347.604" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.545" y1="-231.5" x2="1347.545" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.485" y1="-231.5" x2="1347.485" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.426" y1="-231.5" x2="1347.426" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.365" y1="-231.5" x2="1347.365" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.306" y1="-231.5" x2="1347.306" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.246" y1="-231.5" x2="1347.246" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.187" y1="-231.5" x2="1347.187" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.127" y1="-231.5" x2="1347.127" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.067" y1="-231.5" x2="1347.067" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1347.008" y1="-231.5" x2="1347.008" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.948" y1="-231.5" x2="1346.948" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.888" y1="-231.5" x2="1346.888" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.828" y1="-231.5" x2="1346.828" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.769" y1="-231.5" x2="1346.769" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.709" y1="-231.5" x2="1346.709" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.649" y1="-231.5" x2="1346.649" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.59" y1="-231.5" x2="1346.59" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.53" y1="-231.5" x2="1346.53" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.47" y1="-231.5" x2="1346.47" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.41" y1="-231.5" x2="1346.41" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.351" y1="-231.5" x2="1346.351" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.291" y1="-231.5" x2="1346.291" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.231" y1="-231.5" x2="1346.231" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.172" y1="-231.5" x2="1346.172" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.112" y1="-231.5" x2="1346.112" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1346.052" y1="-231.5" x2="1346.052" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.992" y1="-231.5" x2="1345.992" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.933" y1="-231.5" x2="1345.933" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.873" y1="-231.5" x2="1345.873" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.813" y1="-231.5" x2="1345.813" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.754" y1="-231.5" x2="1345.754" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.694" y1="-231.5" x2="1345.694" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.635" y1="-231.5" x2="1345.635" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.574" y1="-231.5" x2="1345.574" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.515" y1="-231.5" x2="1345.515" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.455" y1="-231.5" x2="1345.455" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.396" y1="-231.5" x2="1345.396" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.336" y1="-231.5" x2="1345.336" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.276" y1="-231.5" x2="1345.276" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.217" y1="-231.5" x2="1345.217" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.156" y1="-231.5" x2="1345.156" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.097" y1="-231.5" x2="1345.097" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1345.037" y1="-231.5" x2="1345.037" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.978" y1="-231.5" x2="1344.978" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.918" y1="-231.5" x2="1344.918" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.858" y1="-231.5" x2="1344.858" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.799" y1="-231.5" x2="1344.799" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.739" y1="-231.5" x2="1344.739" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.679" y1="-231.5" x2="1344.679" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.619" y1="-231.5" x2="1344.619" y2="-225.5"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="1344.56" y1="-231.5" x2="1344.56" y2="-225.5"/>
+	</g>
+	<g opacity="0.3">
+		<rect fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" width="3000" height="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="387.109" x2="3000" y2="387.109"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="374.219" x2="3000" y2="374.219"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="361.328" x2="3000" y2="361.328"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="348.438" x2="3000" y2="348.438"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="335.547" x2="3000" y2="335.547"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="322.656" x2="3000" y2="322.656"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="309.766" x2="3000" y2="309.766"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="296.68" x2="3000" y2="296.68"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="283.789" x2="3000" y2="283.789"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="270.898" x2="3000" y2="270.898"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="258.008" x2="3000" y2="258.008"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="245.117" x2="3000" y2="245.117"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="232.227" x2="3000" y2="232.227"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="219.336" x2="3000" y2="219.336"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="206.445" x2="3000" y2="206.445"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="193.555" x2="3000" y2="193.555"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="180.664" x2="3000" y2="180.664"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="167.773" x2="3000" y2="167.773"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="154.883" x2="3000" y2="154.883"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="141.992" x2="3000" y2="141.992"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="129.102" x2="3000" y2="129.102"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="116.211" x2="3000" y2="116.211"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="103.32" x2="3000" y2="103.32"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="90.234" x2="3000" y2="90.234"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="77.344" x2="3000" y2="77.344"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="64.453" x2="3000" y2="64.453"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="51.562" x2="3000" y2="51.562"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="38.672" x2="3000" y2="38.672"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="25.781" x2="3000" y2="25.781"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="12.891" x2="3000" y2="12.891"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2977.295" y1="0" x2="2977.295" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2953.857" y1="0" x2="2953.857" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2931.152" y1="0" x2="2931.152" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2908.447" y1="0" x2="2908.447" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2885.742" y1="0" x2="2885.742" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2862.305" y1="0" x2="2862.305" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2839.6" y1="0" x2="2839.6" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2816.895" y1="0" x2="2816.895" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2794.189" y1="0" x2="2794.189" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2770.752" y1="0" x2="2770.752" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2748.047" y1="0" x2="2748.047" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2725.342" y1="0" x2="2725.342" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2702.637" y1="0" x2="2702.637" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2679.199" y1="0" x2="2679.199" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2656.494" y1="0" x2="2656.494" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2633.789" y1="0" x2="2633.789" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2610.352" y1="0" x2="2610.352" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2587.646" y1="0" x2="2587.646" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2564.941" y1="0" x2="2564.941" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2542.236" y1="0" x2="2542.236" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2518.799" y1="0" x2="2518.799" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2496.094" y1="0" x2="2496.094" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2473.389" y1="0" x2="2473.389" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2450.684" y1="0" x2="2450.684" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2427.246" y1="0" x2="2427.246" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2404.541" y1="0" x2="2404.541" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2381.836" y1="0" x2="2381.836" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2359.131" y1="0" x2="2359.131" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2335.693" y1="0" x2="2335.693" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2312.988" y1="0" x2="2312.988" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2290.283" y1="0" x2="2290.283" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2266.846" y1="0" x2="2266.846" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2244.141" y1="0" x2="2244.141" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2221.436" y1="0" x2="2221.436" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2198.73" y1="0" x2="2198.73" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2175.293" y1="0" x2="2175.293" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2152.588" y1="0" x2="2152.588" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2129.883" y1="0" x2="2129.883" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2107.178" y1="0" x2="2107.178" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2083.74" y1="0" x2="2083.74" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2061.035" y1="0" x2="2061.035" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2038.33" y1="0" x2="2038.33" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="2015.625" y1="0" x2="2015.625" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1992.188" y1="0" x2="1992.188" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1969.482" y1="0" x2="1969.482" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1946.777" y1="0" x2="1946.777" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1923.34" y1="0" x2="1923.34" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1900.635" y1="0" x2="1900.635" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1877.93" y1="0" x2="1877.93" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1855.225" y1="0" x2="1855.225" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1831.787" y1="0" x2="1831.787" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1809.082" y1="0" x2="1809.082" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1786.377" y1="0" x2="1786.377" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1763.672" y1="0" x2="1763.672" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1740.234" y1="0" x2="1740.234" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1717.529" y1="0" x2="1717.529" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1694.824" y1="0" x2="1694.824" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1672.119" y1="0" x2="1672.119" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1648.682" y1="0" x2="1648.682" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1625.977" y1="0" x2="1625.977" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1603.271" y1="0" x2="1603.271" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1579.834" y1="0" x2="1579.834" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1557.129" y1="0" x2="1557.129" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1534.424" y1="0" x2="1534.424" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1511.719" y1="0" x2="1511.719" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1488.281" y1="0" x2="1488.281" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1465.576" y1="0" x2="1465.576" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1442.871" y1="0" x2="1442.871" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1420.166" y1="0" x2="1420.166" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1396.729" y1="0" x2="1396.729" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1374.023" y1="0" x2="1374.023" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1351.318" y1="0" x2="1351.318" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1327.881" y1="0" x2="1327.881" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1305.176" y1="0" x2="1305.176" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1282.471" y1="0" x2="1282.471" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1259.766" y1="0" x2="1259.766" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1236.328" y1="0" x2="1236.328" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1213.623" y1="0" x2="1213.623" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1190.918" y1="0" x2="1190.918" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1168.213" y1="0" x2="1168.213" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1144.775" y1="0" x2="1144.775" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1122.07" y1="0" x2="1122.07" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1099.365" y1="0" x2="1099.365" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1076.66" y1="0" x2="1076.66" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1053.223" y1="0" x2="1053.223" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1030.518" y1="0" x2="1030.518" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="1007.812" y1="0" x2="1007.812" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="984.375" y1="0" x2="984.375" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="961.67" y1="0" x2="961.67" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="938.965" y1="0" x2="938.965" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="916.26" y1="0" x2="916.26" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="892.822" y1="0" x2="892.822" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="870.117" y1="0" x2="870.117" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="847.412" y1="0" x2="847.412" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="824.707" y1="0" x2="824.707" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="801.27" y1="0" x2="801.27" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="778.564" y1="0" x2="778.564" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="755.859" y1="0" x2="755.859" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="733.154" y1="0" x2="733.154" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="709.717" y1="0" x2="709.717" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="687.012" y1="0" x2="687.012" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="664.307" y1="0" x2="664.307" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="640.869" y1="0" x2="640.869" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="618.164" y1="0" x2="618.164" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="595.459" y1="0" x2="595.459" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="572.754" y1="0" x2="572.754" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="549.316" y1="0" x2="549.316" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="526.611" y1="0" x2="526.611" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="503.906" y1="0" x2="503.906" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="481.201" y1="0" x2="481.201" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="457.764" y1="0" x2="457.764" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="435.059" y1="0" x2="435.059" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="412.354" y1="0" x2="412.354" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="389.648" y1="0" x2="389.648" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="366.211" y1="0" x2="366.211" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="343.506" y1="0" x2="343.506" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="320.801" y1="0" x2="320.801" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="297.363" y1="0" x2="297.363" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="274.658" y1="0" x2="274.658" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="251.953" y1="0" x2="251.953" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="229.248" y1="0" x2="229.248" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="205.811" y1="0" x2="205.811" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="183.105" y1="0" x2="183.105" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="160.4" y1="0" x2="160.4" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="137.695" y1="0" x2="137.695" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="114.258" y1="0" x2="114.258" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="91.553" y1="0" x2="91.553" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="68.848" y1="0" x2="68.848" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="46.143" y1="0" x2="46.143" y2="400"/>
+		<line fill="none" stroke="#996677" stroke-width="0.5" stroke-miterlimit="10" x1="22.705" y1="0" x2="22.705" y2="400"/>
+	</g>
+</g>
+<path fill="#A1B8C3" d="M2188.254,471.621c0,0,224.042-28.449,362.025,53.66c0,0,180.433,107.111,449.056,1.54l0.665,82.907
+	L2186.243,610L2188.254,471.621z"/>
+<path id="plane" fill="#111122" d="M948.201-233.55l-3.006-1.17l-0.045-4.554l-0.574-0.654l0.055,5.002
+	c-2.238-0.479-10.534-0.155-10.534-0.155c-4.645-2.669-10.685-3.182-10.685-3.182c-9.351,0.913-16.262,5.558-16.262,5.558
+	c-9.104,1.799-18.094-0.534-18.094-0.534l-9.166-9.136l-7.903,0.765l7.254,12.868c-1.771,0.495-4.318,1.342-4.318,1.342l5.148,0.534
+	c10.942,1.677,27.956,1.554,39.65,1.197l0.009,0.376c-1.009,0.21-1.757,1.113-1.726,2.182c0.031,1.202,1.028,2.148,2.229,2.117
+	c1.202-0.032,2.151-1.03,2.12-2.23c-0.026-1.018-0.748-1.845-1.695-2.059l0.027-0.417c7.07-0.229,11.971-0.53,11.971-0.53
+	l0.364,1.219l4.22-0.778l-0.03-1.227l1.922-0.638l0.539,3.17c-0.74,0.312-1.253,1.049-1.23,1.899c0.03,1.11,0.951,1.984,2.063,1.956
+	c1.105-0.029,1.982-0.951,1.951-2.059c-0.027-1.109-0.949-1.986-2.059-1.957c-0.068,0.001-0.132,0.017-0.198,0.025l-0.547-2.907
+	l1.493,1.524l-1.18-1.927l0.896-0.297c0.666-0.129,2.34-1.261,3.846-2.361l0.092,3.596l0.699,1.099l-0.221-5.115
+	c1.258-0.937,2.275-1.748,2.275-1.748C948.429-233.22,948.201-233.55,948.201-233.55"/>
+<path fill="#111122" d="M2017.856,470.891c87.908,11.164-205.285-39.613-362.025,53.66c0,0-167.34,104.269-435.963-1.304v86.021h800
+	L2017.856,470.891z"/>
+<path fill="#A1B8C3" d="M672.653,470.894c-87.908,11.164,205.285-39.613,362.025,53.66c-0.711-0.443,168.052,103.989,435.963-1.304
+	v86.021h-800L672.653,470.894z"/>
+<path id="skyline" fill="#111122" d="M2229.37,406.003l597.252,0.269l-1.197-59.039h-5.312v-11.422h-10.076v5.347l-2.215,2.336
+	v11.217h-11.699v4.048h-4.82v-13.291h-9.734v-11.424h-14.26v22.222h-8.557v19.214l-2.26,2.388h-2.359v-17.032h-10.031v2.181h-2.754
+	v3.426h-2.652v4.154h-3.246v-11.526h-9.637v3.426h-3.936v2.701h-1.473v7.892h-4.426v-1.972h-3.148v-1.246h-13.275v2.698h-4.618
+	l-1.574,1.665v6.541h-3.148v3.633h-8.16v-6.333h-1.967v-16.511h-18.092v29.285h-2.314v-13.655l-2.504-2.649h-4.82v2.179h-4.131
+	v1.871h-1.08v4.776h-6.49l-2.066,2.182h-3.344V372.57l-1.963-2.077l-2.561,2.701h-1.965v9.347h-16.031v-10.593h-3.342v-2.18h-3.246
+	v2.387h-2.557v13.398h-1.768v2.596h-5.165v-4.206l-4.57-4.829v-7.581h-0.768v-0.444h-0.496l-0.398,0.444h-0.801l-0.785-0.831h-0.52
+	v1.22h-0.588v7.599l-4.355,4.84v4.214h-4.922v-2.602h-1.686v-13.427h-2.438v-2.394h-3.092v2.185h-3.186v10.618h-15.275v-9.369
+	h-1.875l-2.436-2.705l-1.875,2.081v13.011h-3.186l-1.969-2.186h-6.184V379h-1.029v-1.875h-3.939v-2.185h-4.59l-2.389,2.654v13.686
+	h-2.203v-29.35h-17.242v16.55h-1.873v6.348h-7.777v-3.641h-3v-6.558l-1.498-1.667h-4.404v-2.704h-9.227h-3.424v1.249h-3v1.977
+	h-4.217v-7.91h-1.404v-2.707h-3.75v-3.434h-9.184v11.553h-3.092v-4.164h-2.529v-3.433h-2.625v-2.187h-9.559v17.07h-2.25
+	l-2.154-2.392v-19.257h-8.152v-22.273h-13.588v11.45h-9.277v13.32h-4.59v-4.058h-11.152V343.82l-2.108-2.341v-5.359h-9.603v7.906
+	h-2.768v-12.221h-11.355v5.721l-2.492,2.5v12h-13.183v4.332h-5.428v-14.22h-10.969v-12.223h-16.063v23.776h-9.639v20.558
+	l-2.549,2.555h-2.658V358.58h-11.301v2.334h-3.101v3.667h-2.991v4.444h-3.656v-12.333h-10.857v3.666h-4.432v2.889h-1.662v8.444
+	h-4.984v-2.109h-3.545v-1.333h-14.957v2.886h-3.163l-0.476-23.433h-5.314V336.28h-10.076v5.347l-2.213,2.336v11.217h-11.701v4.048
+	h-4.818v-13.29h-9.734v-11.424h-14.262v22.222h-8.555v19.215l-2.262,2.388h-2.357v-17.032h-10.031v2.182h-2.754v3.426h-2.654v4.154
+	h-3.246V359.54h-9.637v3.426h-3.934v2.701h-1.475v7.893h-4.424v-1.973h-3.148v-1.246h-13.275v2.698h-4.621l-1.572,1.665v6.541
+	h-3.148v3.633h-8.16v-6.334h-1.969v-16.511h-18.092v29.284h-2.314v-13.654l-2.504-2.649h-4.818v2.179h-4.13v1.871h-1.082v4.775
+	h-6.49l-2.066,2.183h-3.344v-12.982l-1.963-2.077l-2.56,2.701h-1.966v9.346h-16.03v-10.593h-3.343v-2.18h-3.246v2.388h-2.556v13.397
+	h-1.769v2.596h-5.164v-4.206l-4.57-4.828v-7.581h-0.767v-0.444h-0.496l-0.399,0.444h-0.801l-0.785-0.831h-0.519v1.22h-0.588v7.599
+	l-4.356,4.84v4.215h-4.921v-2.602h-1.686v-13.428h-2.438v-2.393h-3.093v2.184h-3.186v10.618h-15.275v-9.369h-1.874l-2.436-2.705
+	l-1.875,2.081v13.012h-3.186l-1.969-2.187h-6.185v-4.787h-1.029v-1.874h-3.938v-2.186h-4.591l-2.389,2.654v13.686h-2.202v-29.35
+	h-17.242v16.55h-1.874v6.348h-7.777v-3.642h-3v-6.557l-1.497-1.668h-4.405v-2.704h-12.65v1.249h-2.999v1.977h-4.218v-7.91h-1.404
+	v-2.707h-3.749v-3.434h-9.184v11.553h-3.092v-4.164h-2.53v-3.433h-2.624v-2.187h-9.559v17.069h-2.25l-2.154-2.392v-19.258h-8.152
+	v-22.273h-13.588v11.45h-9.277v13.32h-4.591v-4.058h-11.152v-11.242l-2.108-2.341v-5.359h-9.603v7.906h-2.768v-12.221h-11.354v5.721
+	l-2.493,2.5v12h-13.183v4.332h-5.428v-14.22h-10.969v-12.224h-16.064v23.776h-9.639v20.559l-2.548,2.555h-2.658v-18.224h-11.301
+	v2.334h-3.101v3.667h-2.992v4.443h-3.656v-12.332h-10.857v3.666h-4.431v2.889h-1.663v8.443h-4.984v-2.109h-3.545v-1.332h-14.956
+	v2.886h-5.207l-1.773,1.78v6.999h-3.544v3.89h-9.195v-6.778h-2.216v-17.667h-20.384v31.332h-2.604V376.55l-2.826-2.833h-5.428v2.331
+	h-4.654v2h-1.219v5.113h-7.312l-2.327,2.333h-3.767v-13.891l-2.216-2.222l-2.88,2.889h-2.216v10h-18.058v-11.333h-3.767v-2.333
+	h-3.655v2.555h-2.88v14.335h-1.995v2.776h-5.816v-4.5l-5.151-5.165v-8.113h-2.77l-0.887-0.888h-2.659l-1.44,1.445h-2.438v1.742
+	c-4.281-66.975-3.363-84.167-3.363-84.167c3.709,0.142,6.278-4.056,6.278-4.056l0.096-3.198l0.333-0.38l0.237-6.489l-2.474-2.337
+	l-0.143-2.243l-3.568-2.768l-0.047-2.576c-0.094-0.333-0.999-0.667-0.999-0.667l-0.286-21.898c3.092-2.719-0.428-5.105-0.428-5.105
+	l-0.094-14.646l-0.428-0.669v-5.534l-0.365-0.333l-0.126-15.523c-0.635-2.161-1.015,0.129-1.015,0.129l-0.127,15.267l-0.379,0.508
+	l-0.128,5.47l-0.506,0.892l-0.127,14.377c-3.552,2.035-0.634,4.961-0.634,4.961v22.009c-0.762,0-1.142,0.637-1.142,0.637v2.544
+	l-3.806,3.054v2.162l-2.537,2.036l0.253,6.488l0.38,0.51v3.18c0.634,2.545,6.343,4.452,6.343,4.452
+	c0.76,2.164,0.127,14.506,0,26.973c-0.079,7.695-2.138,37.432-3.702,59.078c-22.567-5.598-40.34,8.786-40.34,8.786v-5.776h-11.41
+	v10.887h-1.218v-17.998h-3.846l0.311-22.866h-5.313V336.54h-10.076v5.347l-2.214,2.336v11.217h-11.7v4.048h-4.819v-13.291h-9.734
+	v-11.424h-14.261v22.222h-8.556v19.214l-2.261,2.388h-2.358v-17.032h-10.031v2.181h-2.754v3.426h-2.653v4.154h-3.246V359.8h-9.637
+	v3.426h-3.935v2.701h-1.474v7.892h-4.425v-1.972h-3.148v-1.246h-13.275v2.698h-4.62l-1.573,1.665v6.541h-3.148v3.633h-8.16v-6.333
+	h-1.968v-16.511h-18.092v29.285h-2.314v-13.655l-2.504-2.649h-4.819v2.179h-4.131v1.871h-1.081v4.776h-6.49l-2.066,2.182h-3.344
+	v-12.982l-1.963-2.077l-2.56,2.701h-1.966v9.347h-16.03v-10.593h-3.343v-2.18h-3.246v2.387h-2.556v13.398h-1.769v2.596h-5.164
+	v-4.206l-4.57-4.829v-7.581h-0.767v-0.444h-0.496l-0.399,0.444h-0.801l-0.785-0.831h-0.519v1.22h-0.588v7.599l-4.356,4.84v4.214
+	h-4.921v-2.602h-1.686v-13.427h-2.438v-2.394h-3.093v2.185h-3.186v10.618h-15.275v-9.369h-1.874l-2.436-2.705l-1.875,2.081v13.011
+	h-3.186l-1.969-2.186h-6.185v-4.787h-1.029v-1.875h-3.938v-2.185h-4.591l-2.389,2.654v13.686h-2.202v-29.35h-17.242v16.55h-1.874
+	v6.348h-7.777v-3.641h-3v-6.558l-1.497-1.667h-4.405v-2.704h-12.65v1.249h-2.999v1.977h-4.218v-7.91h-1.404v-2.707h-3.749v-3.434
+	h-3.465l-0.262-12.928h-5.313v-11.422h-10.076v5.347l-2.214,2.336v11.217h-11.7v2.64h-4.819v-11.882h-1.695v-10.391h-8.04v-1.033
+	h-14.261v12.482h-0.565v9.739h-4.591v-0.477H991v-11.241l-2.107-2.341v-5.359h-9.604v7.906h-2.768v-12.221h-11.354v5.721l-2.493,2.5
+	v12h-13.182v4.332h-5.428v-14.22h-10.969v-12.223h-16.064v23.776h-9.639v7.146h-5.206v-2.256h-11.302v2.334h-3.1v3.667h-2.992v4.444
+	h-3.656V357.42h-10.857v3.666h-4.431v2.889h-1.663v8.444h-4.984v-2.109h-3.545v-1.333H840.7v2.886h-5.206l-1.773,1.78v7h-0.196
+	l-1.447-1.528v-7.581h-0.767v-0.444h-0.496l-0.399,0.444h-0.801l-0.785-0.831h-0.519v1.22h-0.588v7.599l-4.356,4.84v0.171h-2.386
+	v-6.778h-2.215v-17.667h-10.676l0.394,12.25h-0.439v10.618h-15.275v-9.369h-1.874l-2.436-2.705l-1.875,2.081v13.011h-3.186
+	l-1.969-2.186h-6.185V379h-1.029v-1.875h-3.938v-2.185h-4.591l-2.389,2.654v13.686h-2.202v-29.35h-17.242v16.55h-1.874v6.348h-7.777
+	v-3.641h-3v-6.558l-1.497-1.667H725.3v-2.704h-12.65v1.249h-2.999v1.977h-4.218v-7.91h-1.404v-2.707h-3.749v-3.434h-9.184v11.553
+	h-3.092v-4.164h-2.53v-3.433h-2.624v-2.187h-9.559v17.07h-2.25l-2.154-2.392v-19.257h-8.152v-22.273h-13.588v11.45h-9.277v13.32
+	h-4.591v-4.058h-11.152V343.82l-2.108-2.341v-5.359h-9.603v7.906h-2.768v-12.221h-11.354v5.721l-2.493,2.5v12h-13.183v4.332h-5.428
+	v-14.22h-10.969v-12.223h-16.064v23.776h-9.639v20.558l-2.548,2.555h-2.658V358.58h-11.301v2.334h-3.101v3.667h-2.992v4.444h-3.656
+	v-12.333h-10.857v3.666h-4.431v2.889h-1.663v8.444h-4.984v-2.109h-3.545v-1.333h-14.956v2.886h-5.207l-1.773,1.78v7h-3.544v3.889
+	h-9.195v-6.778h-2.216v-17.667h-10.676l1.5,46.632l368.855,0.166l0.018,0.562L1433.497,407l0.008-0.618l795.879,0.358
+	L2229.37,406.003z"/>
+<path fill="#111122" d="M457.764,406.899l-1.197-59.039h-5.312v-11.422h-10.076v5.347l-2.215,2.336v11.217h-11.699v4.048h-4.82
+	v-13.291h-9.734v-11.424h-14.26v22.222h-8.557v19.214l-2.26,2.388h-2.359v-17.032h-10.031v2.181h-2.754v3.426h-2.652v4.154h-3.246
+	V359.7h-9.637v3.426h-3.936v2.701h-1.473v7.892h-4.426v-1.972h-3.148V370.5h-13.275v2.698h-4.619l-1.574,1.665v6.541h-3.148v3.633
+	h-8.16v-6.333h-1.967v-16.511h-18.092v29.285h-2.314v-13.655l-2.504-2.649h-4.82v2.179h-4.131v1.871h-1.08v4.776h-6.49l-2.066,2.182
+	h-3.344v-12.982l-1.963-2.077l-2.561,2.701h-1.965v9.347h-16.031v-10.593h-3.342v-2.18h-3.246v2.387h-2.557v13.398h-1.768v2.596
+	h-5.164v-4.206l-4.57-4.829v-7.581h-0.768v-0.444h-0.496l-0.398,0.444h-0.801l-0.785-0.831h-0.52v1.22h-0.588v7.599l-4.355,4.84
+	v4.214h-4.922v-2.602H207.9v-13.427h-2.438v-2.394h-3.092v2.185h-3.186v10.618h-15.275v-9.369h-1.875l-2.436-2.705l-1.875,2.081
+	v13.011h-3.186l-1.969-2.186h-6.184v-4.787h-1.029v-1.875h-3.939v-2.185h-4.59l-2.389,2.654v13.686h-2.203v-29.35h-17.242v16.55
+	h-1.873v6.348h-7.777v-3.641h-3v-6.558l-1.498-1.667h-4.404v-2.704h-9.227h-3.424v1.249h-3v1.977h-4.217v-7.91H95.17v-2.707h-3.75
+	v-3.434h-9.184v11.553h-3.092v-4.164h-2.529v-3.433h-2.625v-2.187h-9.559v17.07h-2.25l-2.154-2.392V357.25h-8.152v-22.273H38.288
+	v11.45H29.01v13.32h-4.59v-4.058H13.268v-11.241l-2.108-2.341v-5.359H1.557v7.906H-1.21v-12.221h-11.355v5.721l-2.492,2.5v12
+	h-13.183v4.332h-5.428v-14.22h-10.969v-12.223h-16.063v23.776h-9.639v20.558l-2.549,2.555h-2.658v-18.224h-11.301v2.334h-3.101
+	v3.667h-2.991v4.444h-3.656V357.32h-10.857v3.666h-4.432v2.889h-1.662v8.444h-4.984v-2.109h-3.545v-1.333h-14.957v2.886h-3.163
+	l-0.476-23.433h-5.314v-11.422h-10.076v5.347l-2.213,2.336v11.217h-11.701v4.048h-4.818v-13.29h-9.734v-11.424h-14.262v22.222
+	h-8.555v19.215l-2.262,2.388h-2.357v-17.032h-10.031v2.182h-2.754v3.426h-2.654v4.154h-3.246v-11.527h-9.637v3.426h-3.934v2.701
+	h-1.475v7.893h-4.424v-1.973h-3.148v-1.246h-13.275v2.698h-4.621l-1.572,1.665v6.541h-3.148v3.633h-8.16v-6.334h-1.969v-16.511
+	h-18.092v29.284h-2.314v-13.654l-2.504-2.649h-4.818v2.179h-4.13v1.871h-1.082v4.775h-6.49l-2.066,2.183h-3.344v-12.982
+	l-1.963-2.077l-2.56,2.701h-1.966v9.346h-16.03v-10.593h-3.343v-2.18h-3.246v2.388h-2.556v13.397h-1.769v2.596h-5.164v-4.206
+	l-4.57-4.828v-7.581h-0.767v-0.444h-0.496l-0.399,0.444h-0.801l-0.785-0.831h-0.519v1.22h-0.588v7.599l-4.356,4.84v4.215h-4.921
+	v-2.602h-1.686v-13.428h-2.438v-2.393h-3.093v2.184h-3.186v10.618h-15.275v-9.369h-1.874l-2.436-2.705l-1.875,2.081v13.012h-3.186
+	l-1.969-2.187h-6.185v-4.787h-1.029v-1.874h-3.938v-2.186h-4.591l-2.389,2.654v13.686h-2.202v-29.35h-17.242v16.55h-1.874v6.348
+	h-7.777v-3.642h-3v-6.557l-1.497-1.668h-4.405v-2.704h-12.65v1.249h-2.999v1.977h-4.218v-7.91h-1.404v-2.707h-3.749v-3.434h-9.184
+	v11.553h-3.092v-4.164h-2.53v-3.433h-2.624v-2.187h-9.559v17.069h-2.25l-2.154-2.392v-19.258h-8.152v-22.273h-13.588v11.45h-9.277
+	v13.32h-4.591v-4.058h-11.152v-11.242l-2.108-2.341v-5.359h-9.603v7.906h-2.768v-12.221h-11.354v5.721l-2.493,2.5v12h-13.183v4.332
+	h-5.428v-14.22h-10.969v-12.224h-16.064v23.776h-9.639v20.559l-2.548,2.555h-2.658v-18.224h-11.301v2.334h-3.101v3.667h-2.992v4.443
+	h-3.656v-12.332h-10.857v3.666h-4.431v2.889h-1.663v8.443h-4.984v-2.109h-3.545v-1.332h-14.956v2.886h-5.207l-1.773,1.78v6.999
+	h-3.544v3.89h-9.195v-6.778h-2.216v-17.667h-20.384v31.332h-2.604v-14.609l-2.826-2.833h-5.428v2.331h-4.654v2h-1.219v5.113h-7.312
+	l-2.327,2.333h-3.767v-13.891l-2.216-2.222l-2.88,2.889h-2.216v10h-18.058v-11.333h-3.767v-2.333h-3.655v2.555h-2.88v14.335h-1.995
+	v2.776h-5.816v-4.5l-5.151-5.165v-8.113h-2.77l-0.887-0.888h-2.659l-1.44,1.445h-2.438v1.742
+	c-4.281-66.975-3.363-84.167-3.363-84.167c3.709,0.142,6.278-4.056,6.278-4.056l0.096-3.198l0.333-0.38l0.237-6.489l-2.474-2.337
+	l-0.143-2.243l-3.568-2.768l-0.047-2.576c-0.094-0.333-0.999-0.667-0.999-0.667l-0.286-21.898c3.092-2.719-0.428-5.105-0.428-5.105
+	l-0.094-14.646l-0.428-0.669v-5.534l-0.365-0.333l-0.126-15.523c-0.635-2.161-1.015,0.129-1.015,0.129l-0.127,15.267l-0.379,0.508
+	l-0.128,5.47l-0.506,0.892l-0.127,14.377c-3.552,2.035-0.634,4.961-0.634,4.961v22.009c-0.762,0-1.142,0.637-1.142,0.637v2.544
+	l-3.806,3.054v2.162l-2.537,2.036l0.253,6.488l0.38,0.51v3.18c0.634,2.545,6.343,4.452,6.343,4.452
+	c0.76,2.164,0.127,14.506,0,26.973c-0.079,7.695-2.138,37.432-3.702,59.078c-22.567-5.598-40.34,8.786-40.34,8.786v-5.776h-11.41
+	v10.887h-1.218v-17.998h-3.846l0.311-22.866h-5.313v-11.422h-10.076v5.347l-2.214,2.336v11.217h-11.7v4.048h-4.819v-13.291h-9.734
+	v-11.424h-14.261v22.222h-8.556v19.214l-2.261,2.388h-2.358v-17.032h-10.031v2.181h-2.754v3.426h-2.653v4.154h-3.246v-11.526h-9.637
+	v3.426h-3.935v2.701h-1.474v7.892h-4.425v-1.972h-3.148v-1.246h-13.275v2.698h-4.62l-1.573,1.665v6.541h-3.148v3.633h-8.16v-6.333
+	h-1.968v-16.511h-18.092v29.285h-2.314V378.55l-2.504-2.649h-4.819v2.179h-4.131v1.871h-1.081v4.776h-6.49l-2.066,2.182h-3.344
+	v-12.982l-1.963-2.077l-2.56,2.701h-1.966v9.347h-16.03v-10.593h-3.343v-2.18h-3.246v2.387h-2.556v13.398h-1.769v2.596h-5.164
+	v-4.206l-4.57-4.829v-7.581h-0.767v-0.444h-0.496l-0.399,0.444h-0.801l-0.785-0.831h-0.519v1.22h-0.588v7.599l-4.356,4.84v4.214
+	h-4.921v-2.602h-1.686v-13.427h-2.438v-2.394h-3.093v2.185h-3.186v10.618h-15.275v-9.369h-1.874l-2.436-2.705l-1.875,2.081v13.011
+	h-3.186l-1.969-2.186h-6.185v-4.787h-1.029v-1.875h-3.938v-2.185h-4.591l-2.389,2.654v13.686h-2.202v-29.35h-17.242v16.55h-1.874
+	v6.348h-3.602h-4.176v-3.641h-3v-6.558l-1.497-1.667h-4.405v-2.704h-12.65v1.249h-2.999v1.977h-4.218v-7.91h-1.404v-2.707h-3.749
+	v-3.434h-3.465l-0.262-12.928h-5.313v-11.422h-10.076v5.347l-2.214,2.336v11.217h-11.7v2.64h-4.819v-11.882h-1.695v-10.391h-8.04
+	v-1.033h-14.261v12.482h-0.565v9.739h-4.591v-0.477h-11.152v-11.241l-2.107-2.341v-5.359h-9.604v7.906h-2.768v-12.221h-11.354v5.721
+	l-2.493,2.5v12h-13.182v4.332h-5.428v-14.22h-10.969v-12.223h-16.064v23.776h-9.639v7.146h-5.206v-2.256h-11.302v2.334h-3.1v3.667
+	h-2.992v4.444h-3.656v-12.333h-10.857v3.666h-4.431v2.889h-1.663v8.444h-4.984v-2.109h-3.545v-1.333h-14.956v2.886h-5.206
+	l-1.773,1.78v7h-0.196l-1.447-1.528v-7.581h-0.767v-0.444h-0.496l-0.399,0.444h-0.801l-0.785-0.831h-0.519v1.22h-0.588v7.599
+	l-4.356,4.84v0.171h-2.386v-6.778h-2.215v-17.667h-10.676l0.394,12.25h-0.439v10.618h-15.275v-9.369h-1.874l-2.436-2.705
+	l-1.875,2.081v13.011h-3.186l-1.969-2.186h-6.185v-4.787h-1.029v-1.875h-3.938v-2.185h-4.591l-2.389,2.654v13.686h-2.202v-29.35
+	h-17.242v16.55h-1.874v6.348h-7.777v-3.641h-3v-6.558l-1.497-1.667h-4.405v-2.704h-12.65v1.249h-2.999v1.977h-4.218v-7.91h-1.404
+	v-2.707h-3.749v-3.434h-9.184v11.553h-3.092v-4.164h-2.53v-3.433h-2.624v-2.187h-9.559v17.07h-2.25l-2.154-2.392V357.25h-8.152
+	v-22.273h-13.588v11.45h-9.277v13.32h-4.591v-4.058h-11.152v-11.241l-2.108-2.341v-5.359h-9.603v7.906h-2.768v-12.221h-11.354v5.721
+	l-2.493,2.5v12h-13.183v4.332h-5.428v-14.22h-10.969v-12.223h-16.064v23.776h-9.639v20.558l-2.548,2.555h-2.658v-18.224h-11.301
+	v2.334h-3.101v3.667h-2.992v4.444h-3.656V357.32h-10.857v3.666h-4.431v2.889h-1.663v8.444h-4.984v-2.109h-3.545v-1.333h-14.956
+	v2.886h-5.207l-1.773,1.78v7h-3.544v3.889h-9.195v-6.778h-2.216v-17.667h-10.676l1.5,46.632l368.855,0.166l0.018,0.562l297.24,0.134
+	c0.349-6.94,0.703-13.859,0.255-20.578c0.448,6.719,0.094,13.638-0.255,20.578h0.088l326.579,0.147l0.008-0.618l795.879,0.358
+	l-0.015-0.737L457.764,406.899z"/>
+<path fill="#111122" d="M5211.418,404.813l-1.197-59.039h-5.312v-11.422h-10.076v5.347l-2.215,2.336v11.217h-11.699v4.048h-4.82
+	v-13.291h-9.734v-11.424h-14.26v22.222h-8.557v19.214l-2.26,2.388h-2.359v-17.032h-10.031v2.181h-2.754v3.426h-2.652v4.154h-3.246
+	v-11.526h-9.637v3.426h-3.936v2.701h-1.473v7.892h-4.426v-1.972h-3.148v-1.246h-13.275v2.698h-4.619l-1.574,1.665v6.541h-3.148
+	v3.633h-8.16v-6.333h-1.967v-16.511h-18.092v29.284h-2.314v-13.655l-2.504-2.649h-4.82v2.179h-4.131v1.871h-1.08v4.775h-6.49
+	l-2.066,2.183h-3.344v-12.982l-1.963-2.077l-2.561,2.701h-1.965v9.346h-16.031v-10.593h-3.342v-2.18h-3.246v2.387h-2.557v13.398
+	h-1.768v2.596h-5.164v-4.206l-4.57-4.828v-7.581h-0.768v-0.444h-0.496l-0.398,0.444h-0.801l-0.785-0.831h-0.52v1.22h-0.588v7.599
+	l-4.355,4.84v4.215h-4.922v-2.602h-1.686v-13.427h-2.438v-2.394h-3.092v2.185h-3.186v10.618h-15.274v-9.369h-1.875l-2.436-2.705
+	l-1.875,2.081v13.012h-3.186l-1.969-2.187h-6.184v-4.787h-1.029v-1.875h-3.939v-2.185h-4.59l-2.389,2.654v13.685h-2.203v-29.35
+	h-17.242v16.55h-1.873v6.348h-7.777v-3.641h-3v-6.558l-1.498-1.667h-4.404V368.8h-9.227h-3.424v1.249h-3v1.977h-4.217v-7.91h-1.404
+	v-2.707h-3.75v-3.434h-9.184v11.553h-3.092v-4.164h-2.529v-3.433h-2.625v-2.187h-9.559v17.07h-2.25l-2.154-2.392v-19.257h-8.152
+	v-22.273h-13.588v11.45h-9.277v13.32h-4.59v-4.058h-11.152v-11.241l-2.108-2.341v-5.359h-9.603v7.906h-2.768v-12.221h-11.355v5.721
+	l-2.492,2.5v12h-13.183v4.332h-5.428v-14.22h-10.969v-12.223h-16.063v23.776h-9.639v20.558l-2.549,2.555h-2.658v-18.224h-11.301
+	v2.334h-3.101v3.667h-2.991v4.444h-3.656v-12.333h-10.857v3.666h-4.432v2.889h-1.662v8.444h-4.984v-2.109h-3.545v-1.333h-14.957
+	v2.886h-3.163l-0.476-23.433h-5.314v-11.422h-10.076v5.347l-2.213,2.336v11.217h-11.701v4.048h-4.818v-13.29h-9.734v-11.424h-14.262
+	v22.222h-8.555v19.215l-2.262,2.388h-2.357v-17.032h-10.031v2.182h-2.754v3.426h-2.654v4.154h-3.246v-11.527h-9.637v3.426h-3.934
+	v2.701h-1.475v7.893h-4.424v-1.973h-3.148v-1.246h-13.275v2.698h-4.621l-1.572,1.665v6.541h-3.148v3.633h-8.16v-6.334h-1.969
+	v-16.511h-18.092v29.284h-2.314v-13.654l-2.504-2.649h-4.818v2.179h-4.13v1.871h-1.082v4.775h-6.49l-2.066,2.183h-3.344v-12.982
+	l-1.963-2.077l-2.561,2.701h-1.965v9.346h-16.031v-10.593h-3.342v-2.18h-3.246v2.388h-2.557v13.397h-1.768v2.596h-5.164v-4.206
+	l-4.57-4.828v-7.581h-0.768V370.1h-0.496l-0.398,0.444h-0.801l-0.785-0.831h-0.52v1.22h-0.588v7.599l-4.355,4.84v4.215h-4.922
+	v-2.602h-1.686v-13.428h-2.438v-2.393h-3.092v2.184h-3.186v10.618h-15.275v-9.369h-1.875l-2.436-2.705l-1.875,2.081v13.012h-3.186
+	l-1.969-2.187h-6.184v-4.787h-1.029v-1.874h-3.939v-2.186h-4.59l-2.389,2.654v13.686h-2.203v-29.35h-17.242v16.55h-1.873v6.348
+	h-7.777v-3.642h-3v-6.557l-1.498-1.668h-4.404v-2.704h-12.65v1.249h-3v1.977h-4.217v-7.91h-1.404v-2.707h-3.75v-3.434h-9.184v11.553
+	h-3.092v-4.164h-2.529v-3.433h-2.625v-2.187h-9.559v17.069h-2.25l-2.154-2.392v-19.258h-8.152V333.36h-13.588v11.45h-9.277v13.32
+	h-4.59v-4.058h-11.152V342.83l-2.108-2.341v-5.359h-9.603v7.906h-2.768v-12.221h-11.355v5.721l-2.492,2.5v12h-13.183v4.332h-5.428
+	v-14.22h-10.969v-12.224h-16.063v23.776h-9.639v20.559l-2.549,2.555h-2.658v-18.224h-11.301v2.334h-3.101v3.667h-2.991v4.443h-3.656
+	v-12.332h-10.857v3.666h-4.432v2.889h-1.662v8.443h-4.984v-2.109h-3.545v-1.332h-14.957v2.886h-5.206l-1.773,1.78v6.999h-3.544v3.89
+	h-9.195v-6.778h-2.216v-17.667h-20.384v31.332h-2.604v-14.609l-2.826-2.833h-5.428v2.331h-4.653v2h-1.219v5.113h-7.312l-2.326,2.333
+	h-3.768v-13.891l-2.215-2.222l-2.881,2.889h-2.216v10h-18.058v-11.333h-3.768v-2.333h-3.654v2.555h-2.881v14.335h-1.994v2.776
+	h-5.816v-4.5l-5.151-5.165v-8.113h-2.77l-0.887-0.888h-2.659l-1.439,1.445h-2.438v1.742c-4.281-66.975-3.363-84.167-3.363-84.167
+	c3.709,0.142,6.277-4.056,6.277-4.056l0.097-3.198l0.333-0.38l0.236-6.489l-2.473-2.337l-0.143-2.243l-3.568-2.768l-0.047-2.576
+	c-0.095-0.333-1-0.667-1-0.667l-0.285-21.898c3.092-2.719-0.428-5.105-0.428-5.105l-0.095-14.646l-0.429-0.669v-5.534l-0.365-0.333
+	l-0.125-15.523c-0.635-2.161-1.016,0.129-1.016,0.129l-0.127,15.267l-0.38,0.508l-0.128,5.47l-0.507,0.892l-0.127,14.377
+	c-3.552,2.035-0.634,4.961-0.634,4.961v22.009c-0.762,0-1.143,0.637-1.143,0.637v2.544l-3.806,3.054v2.162l-2.536,2.036l0.253,6.488
+	l0.38,0.51v3.18c0.635,2.545,6.344,4.452,6.344,4.452c0.76,2.164,0.127,14.506,0,26.973c-0.079,7.695-2.139,37.432-3.702,59.078
+	c-22.567-5.598-40.34,8.786-40.34,8.786v-5.776h-11.409v10.887h-1.219v-17.998h-3.846l0.311-22.866h-5.313v-11.422h-10.076v5.347
+	l-2.214,2.336v11.217h-11.7v4.048h-4.819v-13.291h-9.734v-11.424h-14.261v22.222h-8.556v19.214l-2.261,2.388h-2.358v-17.032h-10.031
+	v2.181h-2.754v3.426h-2.653v4.154h-3.246v-11.526h-9.637v3.426h-3.935v2.701h-1.474v7.892h-4.425v-1.972h-3.148v-1.246h-13.275
+	v2.698h-4.62l-1.573,1.665v6.541h-3.148v3.633h-8.16v-6.333h-1.968v-16.511h-18.092v29.284h-2.314v-13.655l-2.504-2.649h-4.819
+	v2.179h-4.131v1.871h-1.081v4.775h-6.49l-2.066,2.183h-3.344v-12.982l-1.963-2.077l-2.56,2.701h-1.966v9.346h-16.03v-10.593h-3.343
+	v-2.18h-3.246v2.387h-2.556v13.398h-1.769v2.596h-5.164v-4.206l-4.57-4.828v-7.581h-0.767v-0.444h-0.496l-0.399,0.444h-0.801
+	l-0.785-0.831h-0.519v1.22h-0.588v7.599l-4.356,4.84v4.215h-4.921v-2.602h-1.686v-13.427h-2.438v-2.394h-3.093v2.185h-3.186v10.618
+	h-15.275v-9.369h-1.874l-2.436-2.705l-1.875,2.081v13.012h-3.186l-1.969-2.187h-6.185v-4.787h-1.029v-1.875h-3.938v-2.185h-4.591
+	l-2.389,2.654v13.685h-2.202v-29.35h-17.242v16.55h-1.874v6.348h-3.602h-4.176v-3.642h-3V373.9l-1.497-1.667h-4.405v-2.704h-12.65
+	v1.249h-2.999v1.977h-4.218v-7.91h-1.404v-2.707h-3.749v-3.434h-3.465l-0.262-12.928h-5.314v-11.422h-10.076v5.347l-2.213,2.336
+	v11.217h-11.701v2.64h-4.818v-11.882h-1.695V333.62h-8.039v-1.033h-14.262v12.482h-0.564v9.739h-4.591v-0.477h-11.152V343.09
+	l-2.107-2.341v-5.359h-9.604v7.906h-2.768v-12.221h-11.354v5.721l-2.493,2.5v12h-13.182v4.332h-5.428v-14.22h-10.969v-12.223
+	h-16.064v23.776h-9.639v7.146h-5.206v-2.256h-11.302v2.334h-3.1v3.667h-2.992v4.444h-3.656v-12.333h-10.857v3.666h-4.431v2.889
+	h-1.663v8.444h-4.984v-2.109h-3.545v-1.333h-14.956v2.886h-5.206l-1.773,1.78v7h-0.196l-1.447-1.528v-7.581h-0.766v-0.444h-0.496
+	l-0.4,0.444h-0.801l-0.785-0.831h-0.518v1.22h-0.588v7.599l-4.357,4.84v0.172h-2.386v-6.778h-2.215v-17.667h-10.676l0.394,12.25
+	h-0.439v10.618h-15.275v-9.369h-1.873l-2.436-2.705l-1.875,2.081v13.012h-3.186l-1.969-2.187h-6.186v-4.787h-1.029v-1.875h-3.938
+	v-2.185h-4.592l-2.389,2.654v13.685h-2.201v-29.35h-17.242v16.55h-1.875v6.348h-7.777v-3.641h-3v-6.558l-1.496-1.667h-4.406V368.8
+	h-12.65v1.249h-2.998v1.977h-4.219v-7.91h-1.404v-2.707h-3.748v-3.434h-9.184v11.553h-3.092v-4.164h-2.531v-3.433h-2.623v-2.187
+	h-9.559v17.07h-2.25l-2.154-2.392v-19.257h-8.152v-22.273h-13.588v11.45h-9.277v13.32h-4.592v-4.058h-11.152v-11.241l-2.107-2.341
+	v-5.359h-9.604v7.906h-2.768v-12.221h-11.354v5.721l-2.493,2.5v12h-13.183v4.332h-5.428v-14.22h-10.969v-12.223h-16.064v23.776
+	h-9.639v20.558l-2.547,2.555h-2.658v-18.224h-11.302v2.334h-3.101v3.667h-2.992v4.444h-3.656v-12.333h-10.856v3.666h-4.431v2.889
+	h-1.663v8.444h-4.984v-2.109h-3.546v-1.333h-14.955v2.886h-5.207l-1.773,1.78v7h-3.544v3.89h-9.195v-6.778h-2.216V357.9h-10.676
+	l1.5,46.632l368.855,0.166l0.019,0.562l297.24,0.134c0.349-6.94,0.703-13.859,0.255-20.578c0.448,6.719,0.094,13.638-0.255,20.578
+	h0.088l326.579,0.147l0.008-0.618l795.88,0.358l-0.015-0.737L5211.418,404.813z"/>
+</svg>

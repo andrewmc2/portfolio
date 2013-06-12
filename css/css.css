@@ -1,0 +1,877 @@
+/************************************************************************************
+RESET
+*************************************************************************************/
+html, body, address, blockquote, div, dl, form, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul,
+dd, dt, li, tbody, td, tfoot, th, thead, tr, button, del, ins, map, object,
+a, abbr, acronym, b, bdo, big, br, cite, code, dfn, em, i, img, kbd, q, samp, small, span,
+strong, sub, sup, tt, var, legend, fieldset {
+	margin: 0;
+	padding: 0;
+}
+
+img, fieldset {
+	border: 0;
+}
+
+/* set image max width to 100% */
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
+/* set html5 elements to block */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
+    display: block;
+}
+
+/************************************************************************************
+GENERAL STYLING
+*************************************************************************************/
+body {
+	font: .91em/150% Arial, Helvetica, sans-serif;
+}
+a {
+	text-decoration: none;
+	outline: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+p {
+	margin: 0;
+	padding: 0;
+	font-family: 'Play', sans-serif;
+	text-align: left;
+}
+
+/* list */
+ul, ol {
+	margin: 0;
+	padding: 0;
+}
+li {
+	margin: 0;
+	padding: 0;
+}
+/* headings */
+h1, h2, h3, h4, h5, h6 {
+/*
+	line-height: 1.4em;
+	margin: 20px 0 .4em;
+*/
+}
+h1 {
+	font-size: 2em;
+	font-family: 'Play', sans-serif;
+}
+h2 {
+	font-size: 1.6em;
+	font-family: 'Play', sans-serif;
+	color:#111122;
+}
+h3 {
+	font-size: 1.4em;
+	font-family: 'Play', sans-serif;
+	color:#111122;
+}
+h4 {
+	font-size: 1.2em;
+	font-family: 'Play', sans-serif;
+	
+}
+h5 {
+	font-size: 1.1em;
+	font-family: 'Play', sans-serif;
+}
+h6 {
+	font-size: 1em;
+	font-family: 'Play', sans-serif;
+}
+
+/************************************************************************************
+STRUCTURE
+*************************************************************************************/
+
+#pagewrap {
+	width: 100%;
+	margin: 0 auto;
+	/* background-color: red; */
+}
+
+#content{
+	/* background-color: red; */
+	
+}
+
+
+/************************************************************************************
+OFF CANVAS MENU
+********************************************************/
+
+
+
+
+/************************************************************************************
+BACKGROUND IMAGE
+*************************************************************************************/
+body{	
+}
+
+.carbon-fiber-bg{
+		background:
+-webkit-linear-gradient(63deg, #151515 5px, transparent 5px) 0 5px,
+-webkit-linear-gradient(-117deg, #151515 5px, transparent 5px) 10px 0px,
+-webkit-linear-gradient(63deg, #222 5px, transparent 5px) 0px 10px,
+-webkit-linear-gradient(-117deg, #222 5px, transparent 5px) 10px 5px,
+-webkit-linear-gradient(0deg, #1b1b1b 10px, transparent 10px),
+-webkit-linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+background-color: #131313;
+background-size: 20px 20px;; background:
+-webkit-linear-gradient(63deg, #151515 5px, transparent 5px) 0 5px,
+-webkit-linear-gradient(-117deg, #151515 5px, transparent 5px) 10px 0px,
+-webkit-linear-gradient(63deg, #222 5px, transparent 5px) 0px 10px,
+-webkit-linear-gradient(-117deg, #222 5px, transparent 5px) 10px 5px,
+-webkit-linear-gradient(0deg, #1b1b1b 10px, transparent 10px),
+-webkit-linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+background-color: #131313;
+background-size: 20px 20px;
+}
+
+/************************************************************************************
+HEADER
+*************************************************************************************/
+#header-wrapper{
+	width: 100%;
+	height: 110px;
+	position: fixed;
+	top:0px;
+	z-index: 9999999999;
+}
+
+#header{
+	height: 110px;
+	width: 100%;
+	background-color:rgba(0,0,0,0.7);
+}
+
+#logoHolder{
+	width:150px;
+	height:100%;
+	display:inline-block;
+	text-align: center;
+}
+
+#logo{
+	position:absolute;
+	display:inline-block;
+	/*
+margin:15px;
+	padding:15px;
+*/
+}
+
+#header-content-seperator{
+	height: 500px;
+	width: 250px;
+	background-color: green;
+	margin: 0 auto;
+	
+}
+
+/************************************************************************************
+MAIN NAVIGATION
+*************************************************************************************/
+nav{
+	width: 100%;
+	text-align: center;
+}
+
+#main-nav {
+	width: 80%;
+	margin:0 auto;
+	text-align: center;
+	list-style-type:none;
+	color: white;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#main-nav li {
+	/*
+margin: 0;
+	padding: 0;
+	list-style: none;
+	*/
+	display:inline-block;
+	
+}
+
+#main-nav li a:hover {
+	text-decoration: none;
+}
+
+.navIconSmall{
+	width: 45px;
+	height: 60px;
+	/*
+border-color: black;
+	border-style: dashed;
+*/		
+}
+
+.navIconSmall a:hover{
+	width: 45px;
+	height: 60px;
+	/*
+border-color: black;
+	border-style: dashed;
+*/		
+}
+
+.navIconSmallSpace{
+	width: 5em;
+	height: 60px;	
+}
+
+#navCenterLogo{
+background-image: url(../images/mc2logo.jpg); 
+	width: 75px;
+	height: 75px;
+}
+
+
+#main-nav li:first-child {
+	
+}
+
+#main-nav a {
+
+}
+
+.nav-icon-svg-text{
+	font-family: 'Play', sans-serif;
+}
+
+/*
+.navIconSmall:hover {
+	text-decoration: none;
+	background-color: rgba(153,102,119,0.5);
+}
+*/
+/************************************************************************************
+MAIN NAV SVG ICONS
+*************************************************************************************/
+
+/*
+#main-nav-contact:hover{
+	fill:#996677;	
+}
+
+#main-nav-contact-text:hover{
+	fill:#996677;
+}
+
+#main-nav-contact-fill:hover{
+	fill:#996677;
+	opacity: 0.2;
+}
+
+
+#svgsvg:hover{
+	fill:#996677;
+}
+*/
+
+
+/************************************************************************************
+RESPONSIVE NAV
+*************************************************************************************/
+#responsive-nav {
+	width: 100%;
+	margin:0 auto;
+	text-align: center;
+	list-style-type:none;
+	background-color: #332266;
+	color: white;
+}
+
+#responsive-nav li{
+	display: none;
+}
+
+
+/************************************************************************************
+FEATURED CONTENT
+*************************************************************************************/
+#featured-content{
+	margin-top: 110px;
+	height: 400px;
+	background:url(../images/toronto4.svg) no-repeat center;
+	}
+
+#text-source{
+}
+
+#slogan-wrapper{
+	font-family: 'Droid Sans Mono', sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 0.5em;
+	padding-bottom:0.5em; 
+	width: 80%;
+	text-align: center;
+}
+
+.slogan{
+text-align: center;
+padding: 0.5em;
+font-size: 1.5em;
+}
+
+#slogan2{
+	font-size: 3em;
+	line-height: 1em;
+	}
+
+.article-svg-icon{
+	width: 30px;
+	height: 30px;
+	padding: 10px;
+	margin: 0 auto;
+
+}
+
+.article-svg-standard{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	display: inline-block;
+}
+
+.section-title-black-bg{
+	color: #bbbbcc;
+}
+
+.section-description-black-bg{
+	color: #bbbbcc;	
+	width: 70%;
+	margin: 0 auto;
+	margin-bottom: 1em;
+}
+
+.section-description{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.section-description-subtitle-blackbg{
+	color: #bbbbcc;
+}
+
+
+
+
+/************************************************************************************
+ABOUT
+*************************************************************************************/
+#about{
+	text-align: center;
+	
+}
+
+#about-carbon-fiber-bg-opacity{
+	background-color:rgba(0,0,0,0.7);
+	padding: 20px;
+}
+
+#about-svg-icon{
+		background: url(../images/svg/section-icons/main-nav-about-small.svg) no-repeat center center;
+}
+
+/* dev */
+#html5-logo{
+	background:url('../images/svg/skills/dev/big/html5big.png') no-repeat center center;
+}
+
+#css3-logo{
+	background:url('../images/svg/skills/dev/big/css3big.png') no-repeat center center;
+}
+
+#jquery-logo{
+	background:url('../images/svg/skills/dev/big/jquerybig.png') no-repeat center center;
+}
+
+#xcode-logo{
+	background:url('../images/svg/skills/dev/big/xcodebig.png') no-repeat center center;
+}
+
+#php-logo{
+	background:url('../images/svg/skills/dev/big/phpbig.png') no-repeat center center;
+}
+
+#as3-logo{
+	background:url('../images/svg/skills/dev/big/as3big.png') no-repeat center center;
+}
+
+
+/* design */
+#ps-logo{
+	background:url('../images/svg/skills/design/big/psbig.png') no-repeat center center;
+}
+
+#ai-logo{
+	background:url('../images/svg/skills/design/big/aibig.png') no-repeat center center;
+}
+
+#axure-logo{
+	background:url('../images/svg/skills/design/big/axurebig.png') no-repeat center center;
+}
+
+#omni-logo{
+	background:url('../images/svg/skills/design/big/omnibig.png') no-repeat center center;
+}
+
+/* personal */
+#chinese-logo{
+	background:url('../images/svg/skills/personal/big/chinesebig.png') no-repeat center center;
+}
+
+#excel-logo{
+	background:url('../images/svg/skills/personal/big/excelbig.png') no-repeat center center;
+}
+
+#keynote-logo{
+	background:url('../images/svg/skills/personal/big/keynotebig.png') no-repeat center center;
+}
+
+#bizdev-logo{
+	background:url('../images/svg/skills/personal/big/bizdevbig.png') no-repeat center center;
+}
+
+.skills-wrapper{
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+
+/************************************************************************************
+PROJECTS
+*************************************************************************************/
+#projects{
+	background-color:white;
+	text-align: center;	
+	position: relative;
+	float: left;
+	width: 100%;
+	padding-bottom: 2.5em;	
+}
+
+#projects-carbon-fiber-bg-opacity{
+	padding: 20px;
+}
+
+.project-header{
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+}
+
+
+.project{
+	width: 50%;
+	display: inline-block;
+	float: left;
+	padding-bottom: 1em;
+	}
+	
+.odd-project{
+	clear: both;
+}
+	
+.project-spacer{
+clear:both;
+	height: 1px;
+	background-color: white;
+	width: 100%;
+}
+	
+.project-text-wrapper-outer{
+	text-align: center;
+	margin: 0 auto;
+	width: 90%;
+}
+
+.project-text-wrapper-inner{
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+}
+	
+.project-text{
+	width: 100%;
+	margin: 0 auto;
+}
+
+#cat{
+	width: 90%;
+}
+
+
+#projects-svg-icon{
+	background: url(../images/svg/section-icons/main-nav-work-smal.svg) no-repeat center center;
+}
+
+/************************************************************************************
+FAKELIKES
+*************************************************************************************/
+#fake-likes{
+	background-color: black;
+}
+
+
+/************************************************************************************
+LIKES
+*************************************************************************************/
+#likes{
+	text-align: center;
+}
+
+#likes-carbon-fiber-bg-opacity{
+	background-color:rgba(0,0,0,0.7);
+	padding: 20px;
+}
+
+#likes-text{
+	margin-top: -1.5em;
+}
+
+#likes-svg-icon{
+background:url(../images/svg/section-icons/main-nav-likes-small.svg) no-repeat center center;
+}
+
+#instagram{
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+/************************************************************************************
+CONTACT
+*************************************************************************************/
+#contact{
+	margin-top: 0.5em;
+	background-color:white;
+	text-align: center;
+	 /* change after */
+}
+
+#likes-carbon-fiber-bg-opacity{
+	padding: 20px;
+}
+
+#contact-svg-icon{
+background:url(../images/svg/section-icons/main-nav-contact-small.svg) no-repeat center center;
+	}
+	
+/*
+#email-logo{
+	background:url('../images/svg/contact/big/emailbig.png') no-repeat center center;
+}
+
+#linkedin-logo{
+	background:url('../images/svg/contact/big/linkedinbig.png') no-repeat center center;
+}
+
+#twitter-logo{
+	background:url('../images/svg/contact/big/twitterbig.png') no-repeat center center;
+}
+*/
+
+
+
+#twitter{
+	position: relative;
+	display:inline-block;
+	height: 80px;
+		width: 80px;
+	margin:20px;			
+		background: transparent url('../images/twitterBirdSVG.svg') no-repeat;
+		background-size: cover;
+		
+		-webkit-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-webkit-animation-play-state: running;
+		
+		-moz-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-moz-animation-play-state: running;
+		
+		-ms-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-ms-animation-play-state: running;
+		
+		-o-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-o-animation-play-state: running;
+		
+		animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		animation-play-state: running;	
+}
+
+		#email
+	{
+		position: relative;
+	display:inline-block;
+	height: 80px;
+		width: 80px;
+		margin:20px;
+		background: transparent url('../images/email.svg') no-repeat;
+		background-size: cover;
+		
+		-webkit-animation: moneyWave 3s ease-in-out 0s infinite;
+		-webkit-animation-play-state: running;
+		
+		-moz-animation: moneyWave 3s ease-in-out 0s infinite;
+		-moz-animation-play-state: running;
+		
+		-ms-animation: moneyWave 3s ease-in-out 0s infinite;
+		-ms-animation-play-state: running;
+		
+		-o-animation: moneyWave 3s ease-in-out 0s infinite;
+		-o-animation-play-state: running;
+	
+		animation: moneyWave 3s ease-in-out 0s infinite;
+		animation-play-state: running;
+	}
+	
+	#linkedIn{
+
+		position: relative;
+	display:inline-block;
+	height: 80px;
+		width: 80px;
+		margin:20px;
+			background: transparent url('../images/linkedIn.svg') no-repeat;
+			background-size: cover;
+			
+		
+		-webkit-animation: heartPulse 2s ease-in 1s infinite;
+		-webkit-animation-play-state: running;
+		
+		-moz-animation: heartPulse 2s ease-in 1s infinite;
+		-moz-animation-play-state: running;
+		
+		-ms-animation: heartPulse 2s ease-in 1s infinite;
+		-ms-animation-play-state: running;
+		
+		-o-animation: heartPulse 2s ease-in 1s infinite;
+		-o-animation-play-state: running;
+		
+		animation: heartPulse 2s ease-in 1s infinite;
+		animation-play-state: running;
+		}
+		
+#github{
+	position: relative;
+	display:inline-block;
+	height: 80px;
+		width: 80px;
+	margin:20px;			
+		background: transparent url('../images/githublogo.svg') no-repeat;
+		background-size: cover;
+		
+		-webkit-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-webkit-animation-play-state: running;
+		
+		-moz-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-moz-animation-play-state: running;
+		
+		-ms-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-ms-animation-play-state: running;
+		
+		-o-animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		-o-animation-play-state: running;
+		
+		animation: arrowPoint 1.5s ease-in-out 0s infinite;
+		animation-play-state: running;	
+}
+
+@-webkit-keyframes heartPulse
+{
+	0%		{-webkit-transform: scale(.95);}
+	5%		{-webkit-transform: scale(1);}
+	10%		{-webkit-transform: scale(.9);}
+	15%		{-webkit-transform: scale(1);}
+	20%		{-webkit-transform: scale(.9);}
+	100%	{-webkit-transform: scale(.95);}
+}
+	
+	@-moz-keyframes heartPulse
+	{
+		0%		{-moz-transform: scale(.95);}
+		5%		{-moz-transform: scale(1);}
+		10%		{-moz-transform: scale(.9);}
+		15%		{-moz-transform: scale(1);}
+		20%		{-moz-transform: scale(.9);}
+		100%	{-moz-transform: scale(.95);}
+	}
+	
+	@-ms-keyframes heartPulse
+	{
+		0%		{-ms-transform: scale(.95);}
+		5%		{-ms-transform: scale(1);}
+		10%		{-ms-transform: scale(.9);}
+		15%		{-ms-transform: scale(1);}
+		20%		{-ms-transform: scale(.9);}
+		100%	{-ms-transform: scale(.95);}
+	}
+
+	@-o-keyframes heartPulse
+	{
+		0%		{-o-transform: scale(.95);}
+		5%		{-o-transform: scale(1);}
+		10%		{-o-transform: scale(.9);}
+		15%		{-o-transform: scale(1);}
+		20%		{-o-transform: scale(.9);}
+		100%	{-o-transform: scale(.95);}
+	}
+	
+	@keyframes heartPulse
+	{
+		0%		{transform: scale(.95);}
+		5%		{transform: scale(1);}
+		10%		{transform: scale(.9);}
+		15%		{transform: scale(1);}
+		20%		{transform: scale(.9);}
+		100%	{transform: scale(.95);}
+	}
+
+@-webkit-keyframes arrowPoint
+{
+	0%		{-webkit-transform: translateY(-10px);}
+	50%		{-webkit-transform: translateY(10px);}
+	100%	{-webkit-transform: translateY(-10px);}
+}
+	
+	@-moz-keyframes arrowPoint
+	{
+		0%		{-moz-transform: translateY(-10px);}
+		50%		{-moz-transform: translateY(10px);}
+		100%	{-moz-transform: translateY(-10px);}
+	}
+	
+	@-ms-keyframes arrowPoint
+	{
+		0%		{-ms-transform: translateY(-10px);}
+		50%		{-ms-transform: translateY(10px);}
+		100%	{-ms-transform: translateY(-10px);}
+	}
+	
+	@-o-keyframes arrowPoint
+	{
+		0%		{-o-transform: translateY(-10px);}
+		50%		{-o-transform: translateY(10px);}
+		100%	{-o-transform: translateY(-10px);}
+	}
+	
+	@keyframes arrowPoint
+	{
+		0%		{transform: translateY(-10px);}
+		50%		{transform: translateY(10px);}
+		100%	{transform: translateY(-10px);}
+	}
+
+@-webkit-keyframes moneyWave
+{
+	0%		{-webkit-transform: rotate(0deg);}
+	80%		{-webkit-transform: rotate(0deg);}
+	83%		{-webkit-transform: rotate(30deg);}
+	86%		{-webkit-transform: rotate(-30deg);}
+	89%		{-webkit-transform: rotate(30deg);}
+	92%		{-webkit-transform: rotate(-30deg);}
+	95%		{-webkit-transform: rotate(0deg);}
+	100%	{-webkit-transform: rotate(0deg);}
+}
+
+	@-moz-keyframes moneyWave
+	{
+		0%		{-moz-transform: rotate(0deg);}
+		80%		{-moz-transform: rotate(0deg);}
+		83%		{-moz-transform: rotate(30deg);}
+		86%		{-moz-transform: rotate(-30deg);}
+		89%		{-moz-transform: rotate(30deg);}
+		92%		{-moz-transform: rotate(-30deg);}
+		95%		{-moz-transform: rotate(0deg);}
+		100%	{-moz-transform: rotate(0deg);}
+	}
+	
+	@-ms-keyframes moneyWave
+	{
+		0%		{-ms-transform: rotate(0deg);}
+		80%		{-ms-transform: rotate(0deg);}
+		83%		{-ms-transform: rotate(30deg);}
+		86%		{-ms-transform: rotate(-30deg);}
+		89%		{-ms-transform: rotate(30deg);}
+		92%		{-ms-transform: rotate(-30deg);}
+		95%		{-ms-transform: rotate(0deg);}
+		100%	{-ms-transform: rotate(0deg);}
+	}
+	
+	@-o-keyframes moneyWave
+	{
+		0%		{-o-transform: rotate(0deg);}
+		80%		{-o-transform: rotate(0deg);}
+		83%		{-o-transform: rotate(30deg);}
+		86%		{-o-transform: rotate(-30deg);}
+		89%		{-o-transform: rotate(30deg);}
+		92%		{-o-transform: rotate(-30deg);}
+		95%		{-o-transform: rotate(0deg);}
+		100%	{-o-transform: rotate(0deg);}
+	}
+	
+	@keyframes moneyWave
+	{
+		0%		{transform: rotate(0deg);}
+		80%		{transform: rotate(0deg);}
+		83%		{transform: rotate(30deg);}
+		86%		{transform: rotate(-30deg);}
+		89%		{transform: rotate(30deg);}
+		92%		{transform: rotate(-30deg);}
+		95%		{transform: rotate(0deg);}
+		100%	{transform: rotate(0deg);}
+	}
+	
+@-webkit-keyframes sawSpin
+{
+	0%		{-webkit-transform: rotate(0deg);}
+	100%	{-webkit-transform: rotate(360deg);}
+}
+
+	@-moz-keyframes sawSpin
+	{
+		0%		{-moz-transform: rotate(0deg);}
+		100%	{-moz-transform: rotate(360deg);}
+	}
+	
+	@-ms-keyframes sawSpin
+	{
+		0%		{-ms-transform: rotate(0deg);}
+		100%	{-ms-transform: rotate(360deg);}
+	}
+	
+	@-o-keyframes sawSpin
+	{
+		0%		{-o-transform: rotate(0deg);}
+		100%	{-o-transform: rotate(360deg);}
+	}
+	
+	@keyframes sawSpin
+	{
+		0%		{transform: rotate(0deg);}
+		100%	{transform: rotate(360deg);}
+	}
+
+
+
+
+
+
+

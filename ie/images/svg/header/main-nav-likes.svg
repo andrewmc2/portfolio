@@ -1,0 +1,14 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="45px" height="60px" viewBox="-14 0 60 80" enable-background="new -14 0 60 80" xml:space="preserve">
+<g id="Layer_1_1_">
+</g>
+<g id="heart_x5F_stroke">
+	<g>
+		<path fill="#BBBBCC" d="M29.338,8.5c4.606,0,8.422,3.412,9.066,7.853L16.007,42.074L-6.405,16.353
+			C-5.759,11.912-1.943,8.5,2.664,8.5c3.779,0,7.228,4.058,7.228,4.058L16,19.047l6.108-6.489C22.108,12.558,25.559,8.5,29.338,8.5
+			 M29.338,1C23.742,1,19.025,3.959,16,8.207C12.976,3.959,8.258,1,2.664,1C-6.53,1-14,8.485-14,17.671v1.376L16.015,53.5L46,19.047
+			v-1.376C46,8.485,38.529,1,29.338,1L29.338,1z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 0.3125 75.8545)" fill="#BBBBCC" font-family=""Arial Black", Gadget, sans-serif" font-size="16">likes</text>
+</svg>

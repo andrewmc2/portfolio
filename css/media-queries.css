@@ -1,0 +1,243 @@
+/************************************************************************************
+smaller than 800
+*************************************************************************************/
+@media screen and (max-width: 800px) {
+	
+/* header */
+	#main-nav{
+	}
+	
+
+	.navIconSmallSpace{
+	width: 30px;
+	height: 80px;
+	}	
+
+h5{
+	font-size: 1em;
+}
+	
+	
+
+/* content */
+
+.skills-big{
+	width: 70px;
+}
+
+.section-description-black-bg {
+		width: 95%;
+	}
+
+.section-description{width: 95%;}
+
+.article-svg-standard{
+	width: 70px;
+	height: 70px;
+	margin: 15px;
+	display: inline-block;
+}
+
+
+
+/* about */
+
+/* dev */
+#html5-logo{
+	background:url('../images/svg/skills/dev/small/html5small.png') no-repeat center center;
+}
+
+#css3-logo{
+	background:url('../images/svg/skills/dev/small/css3small.png') no-repeat center center;
+}
+
+#jquery-logo{
+	background:url('../images/svg/skills/dev/small/jquerysmall.png') no-repeat center center;
+}
+
+#xcode-logo{
+	background:url('../images/svg/skills/dev/small/xcodesmall.png') no-repeat center center;
+}
+
+#php-logo{
+	background:url('../images/svg/skills/dev/small/phpsmall.png') no-repeat center center;
+}
+
+#as3-logo{
+	background:url('../images/svg/skills/dev/small/as3small.png') no-repeat center center;
+}
+
+
+/* design */
+#ps-logo{
+	background:url('../images/svg/skills/design/small/pssmall.png') no-repeat center center;
+}
+
+#ai-logo{
+	background:url('../images/svg/skills/design/small/aismall.png') no-repeat center center;
+}
+
+#axure-logo{
+	background:url('../images/svg/skills/design/small/axuresmall.png') no-repeat center center;
+}
+
+#omni-logo{
+	background:url('../images/svg/skills/design/small/omnismall.png') no-repeat center center;
+}
+
+/* personal */
+#chinese-logo{
+	background:url('../images/svg/skills/personal/small/chinesesmall.png') no-repeat center center;
+}
+
+#excel-logo{
+	background:url('../images/svg/skills/personal/small/excelsmall.png') no-repeat center center;
+}
+
+#keynote-logo{
+	background:url('../images/svg/skills/personal/small/keynotesmall.png') no-repeat center center;
+}
+
+#bizdev-logo{
+	background:url('../images/svg/skills/personal/small/bizdevsmall.png') no-repeat center center;
+}
+
+/* projects */
+
+.project{
+	width: 100%;
+	display: inline-block;
+}
+
+
+
+/* contact */
+#email-logo{
+	background:url('../images/svg/contact/small/emailsmall.png') no-repeat center center;
+}
+
+#linkedin-logo{
+	background:url('../images/svg/contact/small/linkedinsmall.png') no-repeat center center;
+}
+
+#twitter-logo{
+	background:url('../images/svg/contact/small/twittersmall.png') no-repeat center center;
+}
+	
+}
+
+/************************************************************************************
+smaller than 600
+*************************************************************************************/
+@media screen and (max-width: 550px) {
+
+h5{
+	font-size: 0.9em;
+}
+
+/* header	 */
+	#header-wrapper{
+		height: 96px;
+	}
+	
+	#header{
+		height: 96px;
+	}
+	
+	#main-nav{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+	}
+	
+	.navIconSmallSpace{
+	width: 10px;
+	height: 50px;
+	display: none;
+	}
+	
+	.navIconSmall{
+	width: 35px;
+	height:50px;
+	display: none;
+	}
+	
+	#navCenterLogo{
+	background-image: url(../images/mc2logo-small.jpg); 
+	width: 50px;
+	height: 50px;
+}
+
+	#mc2logo{
+	width: 50px;
+	height: 50px;
+	}
+
+	#responsive-nav a{
+		color: #bbbbcc;
+		inheretance:none;
+	}
+
+	#responsive-nav li{
+		display: inline-block;
+		margin: 5px;
+		color:#bbbbcc;
+	}
+	
+	
+	#responsive-nav li a:hover{
+		text-decoration: none;
+	}
+	
+	.responsive-menu-text{
+		font-size: 0.8em;
+		padding-left: 0.15em;
+		padding-right: 0.15em;
+	}
+	
+	.section-description-black-bg {
+		width: 100%;
+	}
+	
+
+.section-description{width: 95%;}
+
+/* content	 */
+
+
+
+
+.article-svg-standard{
+	width: 60px;
+	height: 60px;
+	margin: 10px;
+	display: inline-block;
+}
+
+	#featured-content{
+		margin-top: 96px;
+	}		
+	
+	.slogan{
+text-align: center;
+padding: 0.3em;
+font-size: 1.2em;
+}
+
+#slogan2{
+	font-size: 2.4em;
+	line-height: 1em;
+	}
+
+.skills-big{
+	width: 50px;
+}
+
+/* likes */
+#instagram{
+	width: 100%;
+}
+
+
+
+}
