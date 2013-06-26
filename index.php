@@ -229,7 +229,7 @@ FEATURED CONTENT
 			<div id="slogan-wrapper">
 				<p id="slogan1" class="slogan">My name is </p>
 				<p id="slogan2" class="slogan">Andrew McCallum</p>
-				<p id="slogan3" class="slogan">and I am available now for iOS and web dev projects</p>
+				<p id="slogan3" class="slogan">and I like creating big projects for small screens</p>
 			</div>
 			
 		</div>
@@ -251,7 +251,7 @@ ABOUT
 				</header>
 				
 				<p class="section-description-black-bg">
-						My passion lies in mobile development, which includes both native iOS app development and responsive web design (like this site!). I am obsessed with fine details and am not satisfied unless any work I do is pixel perfect, both in terms of design and performance. I’m well trained, being a graduate of both <a href="http://imm.sheridanc.on.ca/">Sheridan’s Interactive Multimedia</a> program and <a href="http://mobilemakers.co/">Mobile Makers Academy</a> iOS bootcamp in Chicago. I love coding, and hope we can work together to make your mobile/idea idea become a reality. 
+						My passion lies in mobile development, which includes both native iOS app development and responsive web design (like this site!). I am obsessed with fine details and am not satisfied unless any work I do is pixel perfect, both in terms of design and performance. I’m well trained, being a graduate of both <a href="http://imm.sheridanc.on.ca/" target="_blank">Sheridan’s Interactive Multimedia</a> program and <a href="http://mobilemakers.co/" target="_blank">Mobile Makers Academy</a> iOS bootcamp in Chicago. I love coding, and hope we can work together to make your mobile/web idea become a reality. 
 				</p>
 <hr width="70%">				
 				
@@ -304,16 +304,16 @@ PROJECTS
 -->
 				
 				<div class="project" id="odd-project">		
-					<h3 class="project-header">Retro Rooster</h3>
+					<h3 class="project-header">Sushi Snob</h3>
 						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
 						<div class="flexslider-wrapper">
 							<div class="flexslider">
 							  <ul class="slides">
 							    <li>
-							      <img src="images/projects/1-retro/retro1.jpg" />
+							      <img src="images/projects/5-sushi/sushi1.jpg" />
 							    </li>
 							    <li>
-							      <img src="images/projects/1-retro/retro2.jpg" />
+							      <img src="images/projects/5-sushi/sushi2.jpg" />
 							    </li>
 							  </ul>
 							</div>
@@ -322,7 +322,7 @@ PROJECTS
 						<div class="project-text-wrapper-outer">
 						<div class="project-text-wrapper-inner">
 						
-						<p class="project-text">Retro Rooster is a native iOS application written in Objective-C that puts a gamification spin on the traditional alarm clock. When the alarm goes off, the user can either snooze or ‘shake to wake’. Once the iPhone is shaken, the user will have to play a mini-game using accelerometer control and gestures to prove that their brain is awake. This is my first native iOs app and hopefully it will be in the App Store soon.<br>   
+						<p class="project-text">Sushi Snob is a native iOS application written Objective-C that helps sushi fans navigate to the closest sushi restaurant via a live compass. It also features custom maps and allows the user share their favorite sushi memories. Sushi Snob is integrated with the FourSquare API for restaurant information and uses all custom design. For a live web demo, please visit <a href="https://app.io/20NqQA" target="_blank">App.io</a>, but please note that the compass only works on the device.<br>   
 </p>	
 						</div>
 						</div>
@@ -330,19 +330,19 @@ PROJECTS
 				</div> <!-- project close -->
 				
 				<div class="project">
-					<h3 class="project-header">Mess with Mitt</h3>
+					<h3 class="project-header">Toronto Park Finder</h3>
 						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
 						<div class="flexslider-wrapper">
 							<div class="flexslider">
 							  <ul class="slides">
 							    <li>
-							      <img src="images/projects/2-mitt/mitt1.jpg" />
+							      <img src="images/projects/6-park/park1.jpg" />
 							    </li>
 							    <li>
-							      <img src="images/projects/2-mitt/mitt2.jpg" />
+							      <img src="images/projects/6-park/park2.jpg" />
 							    </li>
 							    <li>
-							      <img src="images/projects/2-mitt/mitt3.jpg" />
+							      <img src="images/projects/6-park/park3.jpg" />
 							    </li>
 							  </ul>
 							</div>
@@ -350,7 +350,7 @@ PROJECTS
 						
 						<div class="project-text-wrapper-outer">
 						<div class="project-text-wrapper-inner">
-						<p class="project-text">Mess with Mitt combines an Arduino, Flash, a solenoid, an infrared motion sensor, silly spray, and everyone’s favorite politician, Mitt Romney. In this project, it’s the year 2050 and the user must interact with Mitt to help him make cash to fund his expensive robot body. If the user succeeds, Mitt is happy. But if the user makes the wrong moves, they will trigger the solenoid and get sprayed.<br> 
+						<p class="project-text">Toronto Park Finder is a responsive web application that allows Torontonians to find the closest park and have the option to choose from dog parks, playgrounds, fire pits and more. They can also view Instagram pictures of the park. The web app taps into Toronto’s open data for the information and uses both Google Maps and Instagram APIs. Please visit the live site <a href="http://andrewmc2.com/park/" target="_blank">here.</a><br> 
 </p>	
 						</div>
 						</div>
@@ -364,16 +364,16 @@ PROJECTS
 				
 				
 				<div class="project">
-					<h3 class="project-header">Morning Bird</h3>
+					<h3 class="project-header">Retro Rooster</h3>
 						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
 						<div class="flexslider-wrapper">
 							<div class="flexslider">
 							  <ul class="slides">
 							    <li>
-							      <img src="images/projects/3-mb/mb1.jpg" />
+							      <img src="images/projects/1-retro/retro1.jpg" />
 							</li>
 							    <li>
-							      <img src="images/projects/3-mb/mb2.jpg" />
+							      <img src="images/projects/1-retro/retro2.jpg" />
 							    </li>
 							  </ul>
 							</div>
@@ -382,7 +382,7 @@ PROJECTS
 						<div class="project-text-wrapper-outer">
 						<div class="project-text-wrapper-inner">
 						
-						<p class="project-text">Morning Bird is a web application built with Drupal with a custom module that can access and control the Twilio SMS API. The goal of this application is to ‘wake the brain’ of the user by asking them stimulating trivia questions in the form of SMS messages. The user can set these times and also control the difficulty and subject of the trivia questions. This application was done in conjunction with my Fellowship program at Myplanet Digital where I played a duel role of front-end developer and product owner.    
+						<p class="project-text">Retro Rooster is a native iOS application written in Objective-C that puts a gamification spin on the traditional alarm clock. When the alarm goes off, the user can either snooze or ‘shake to wake’. Once the iPhone is shaken, the user will have to play a mini-game using accelerometer control and gestures to prove that their brain is awake. This is my first native iOs app.    
   
 </p>	
 						</div>
@@ -390,16 +390,16 @@ PROJECTS
 				</div> <!-- project close -->
 								
 				<div class="project">		
-					<h3 class="project-header">Screen Recon</h3>
+					<h3 class="project-header">Mess With Mitt</h3>
 						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
 						<div class="flexslider-wrapper">
 							<div class="flexslider">
 							  <ul class="slides">
 							<li>
-							      <img src="images/projects/4-recon/recon1.jpg" />
+							      <img src="images/projects/2-mitt/mitt1.jpg" />
 							</li>
 							    <li>
-							      <img src="images/projects/4-recon/recon2.jpg" />
+							      <img src="images/projects/2-mitt/mitt2.jpg" />
 							    </li>
 							  </ul>
 							</div>
@@ -407,7 +407,8 @@ PROJECTS
 						<div class="project-text-wrapper-outer">
 						<div class="project-text-wrapper-inner">
 						
-						<p class="project-text">Screen Recon a digital solution that aims to help filmmakers find the best possible affordable shooting locations in Toronto quickly and efficiently in the form of a local online community. This project was not only a website, but also a simulation to pitch an idea to a possible investor. The final project included front end dev and design and a Keynote pitch.
+						<p class="project-text">Mess with Mitt combines an Arduino, Flash, a solenoid, an infrared motion sensor, silly spray, and everyone’s favorite politician, Mitt Romney. In this project, it’s the year 2050 and the user must interact with Mitt to help him make cash to fund his expensive robot body. If the user succeeds, Mitt is happy. But if the user makes the wrong moves, they will trigger the solenoid and get sprayed.
+
 </p>	
 						</div>
 						</div>
@@ -441,7 +442,7 @@ LIKES
 				</header>	
 				om
 				<p class="section-description-black-bg" id="likes-text">
-						I feel that sharing common interests amongst team members can really enhance the working experience. I love keeping up with two things in life: music and tech. My musical journey ranges from Seattle grunge rock and the golden age hip-hop in the 90s to various types electronic music up until today. Currently, I am feeling the new wave R&B movement and the return of hip-hop, with artists like A$AP Rocky, Kendrick Lamar, the Weeknd, Frank Ocean and AlunaGeorge leading the charge. I am also a gadget freak and would buy every gadget possible if I had the money. I was the first Android user out of all my friends, but have recently switched back to iOS. I also enjoy living a healthy lifestyle and traveling and learning new languages. You can view my Instagram below to see my latest activities.
+						I feel that sharing common interests amongst team members can really enhance the working experience. I love keeping up with two things in life: music and tech. My musical journey ranges from Seattle grunge rock and the golden age hip-hop in the 90s to various types electronic music up until today. Currently, I am feeling the new wave R&B movement and the return of hip-hop, with artists like Chance the Rapper, Rockie Fresh, the Weeknd, and Frank Ocean leading the charge. I am also a gadget freak and would buy every gadget possible if I had the money. I was the first Android user out of all my friends, but have recently switched back to iOS. I also enjoy living a healthy lifestyle and traveling and learning new languages. You can view my Instagram below to see my latest activities.
 				</p>				
 					<!--add this when i have time			
 <h2>Hear</h2>
@@ -482,14 +483,14 @@ CONTACT
 				</header>	
 				
 				<p class="section-description">
-						If you want to get in touch with me, please feel free to connect with me via email, Twitter, or LinkedIn. My resume is also available to download <a href="http://www.andrewmc2.com/resume/AndrewMcCallumResume2013.pdf" target="_blank">here</a>. Looking forward to working on projects with you in the future!
+						If you want to get in touch with me, please feel free to connect with me via email, Twitter, LinkedIn or GitHub. My resume is also available to download <a href="http://www.andrewmc2.com/resume/AndrewMcCallumResume2013.pdf" target="_blank">here</a>. Looking forward to working on projects with you in the future!
 				</p>
 				
 				<div id="widgets">
 					<a href="http://www.twitter.com/andrewmccallum8" target="_blank"><div id="twitter"></div></a>
 					<a href="mailto:info@andrewmc2.com"><div id="email"></div></a>
-					<a href="http://www.google.ca" target="_blank"><div id="linkedIn"></div></a>
-					<!-- <a href="https://github.com/andrewmc2" target="_blank"><div id="github"></div></a> -->
+					<a href="http://www.linkedin.com/in/amccallum1" target="_blank"><div id="linkedIn"></div></a>
+					<a href="https://github.com/andrewmc2" target="_blank"><div id="github"></div></a>
 				</div>
 					<!-- for later maybe
 <div class="article-svg-standard" id="email-logo"></div>
