@@ -229,7 +229,7 @@ FEATURED CONTENT
 			<div id="slogan-wrapper">
 				<p id="slogan1" class="slogan">My name is </p>
 				<p id="slogan2" class="slogan">Andrew McCallum</p>
-				<p id="slogan3" class="slogan">and I'm currently in Chicago learning iOS at <a href="http://mobilemakers.co/">Mobile Makers</a></p>
+				<p id="slogan3" class="slogan">and I am available now for iOS and web dev projects</p>
 			</div>
 			
 		</div>
