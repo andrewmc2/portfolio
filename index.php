@@ -251,16 +251,16 @@ ABOUT
 				</header>
 				
 				<p class="section-description-black-bg">
-						I guess you could say that I’m a well traveled guy with a rather unique experience. After graduating from McGill with a degree in Economics, I packed my bags and moved to Beijing, where I spent  a few years working on major entertainment co-productions between China and USA and becoming a fluent Mandarin speaker. Currently I am completing a post-grad degree in Interactive Multimedia at Sheridan College, where I’m learning to build create, manage and develop web and mobile content in various emerging technologies. My passion lies in mobile development, which includes both native iOS app development and responsive web design (like this site!). I love coding, and hope we can work together to make your web/mobile idea become a reality. 
+						My passion lies in mobile development, which includes both native iOS app development and responsive web design (like this site!). I am obsessed with fine details and am not satisfied unless any work I do is pixel perfect, both in terms of design and performance. I’m well trained, being a graduate of both <a href="http://imm.sheridanc.on.ca/">Sheridan’s Interactive Multimedia</a> program and <a href="http://mobilemakers.co/">Mobile Makers Academy</a> iOS bootcamp in Chicago. I love coding, and hope we can work together to make your mobile/idea idea become a reality. 
 				</p>
 <hr width="70%">				
 				
 							<h3 class="section-description-subtitle-blackbg">Developer Skills</h3>
 							<div class="skills-wrapper">
-								<div class="article-svg-standard"><?php include("images/svg/skills/dev/big/html5big.svg");?></div>
-								<div class="article-svg-standard"><?php include("images/svg/skills/dev/big/css3big.svg");?></div>
 								<div class="article-svg-standard"><?php include("images/svg/skills/dev/big/objectivecbig.svg");?></div>
 								<div class="article-svg-standard"><?php include("images/svg/skills/dev/big/javascriptbig.svg");?></div>
+								<div class="article-svg-standard"><?php include("images/svg/skills/dev/big/html5big.svg");?></div>
+								<div class="article-svg-standard"><?php include("images/svg/skills/dev/big/css3big.svg");?></div>
 								<div class="article-svg-standard"><?php include("images/svg/skills/dev/big/phpbig.svg");?></div>
 								<div class="article-svg-standard"><?php include("images/svg/skills/dev/big/flashbig.svg");?></div>
 						
@@ -276,7 +276,6 @@ ABOUT
 							<h3 class="section-description-subtitle-blackbg">Designer Skills</h3>
 								<div class="article-svg-standard"><?php include("images/svg/skills/design/big/psbig.svg");?></div>
 								<div class="article-svg-standard"><?php include("images/svg/skills/design/big/aibig.svg");?></div>
-								<div class="article-svg-standard"><?php include("images/svg/skills/design/big/axurebig.svg");?></div>
 								<div class="article-svg-standard"><?php include("images/svg/skills/design/big/omnibig.svg");?></div>
 								
 								</div> <!-- skills-wrapper -->
