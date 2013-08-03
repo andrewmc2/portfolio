@@ -305,6 +305,7 @@ PROJECTS
 				
 				<div class="project" id="odd-project">		
 					<h3 class="project-header">Sushi Snob</h3>
+						
 						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
 						<div class="flexslider-wrapper">
 							<div class="flexslider">
@@ -324,6 +325,10 @@ PROJECTS
 						
 						<p class="project-text">Sushi Snob is a native iOS application written Objective-C that helps sushi fans navigate to the closest sushi restaurant via a live compass. It also features custom maps and allows the user share their favorite sushi memories. Sushi Snob is integrated with the FourSquare API for restaurant information and uses all custom design. For a live web demo, please visit <a href="https://app.io/20NqQA" target="_blank">App.io</a>, but please note that the compass only works on the device.<br>   
 </p>	
+						<div style="margin-top:5px">
+							<a href="https://itunes.apple.com/us/app/sushi-snob/id664768328?mt=8&uo=4" target="_blank"><img src="images/Available_on_the_App_Store_Badge_US-UK_135x40.svg"/></a>
+						</div>
+						
 						</div>
 						</div>
 					
