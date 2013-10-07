@@ -251,7 +251,7 @@ ABOUT
 				</header>
 				
 				<p class="section-description-black-bg">
-						My passion lies in mobile development, which includes both native iOS app development and responsive web design (like this site!). I am obsessed with fine details and am not satisfied unless any work I do is pixel perfect, both in terms of design and performance. I’m well trained, being a graduate of both <a href="http://imm.sheridanc.on.ca/" target="_blank">Sheridan’s Interactive Multimedia</a> program and <a href="http://mobilemakers.co/" target="_blank">Mobile Makers Academy</a> iOS bootcamp in Chicago. I love coding, and hope we can work together to make your mobile/web idea become a reality. 
+						My passion lies in mobile development, which includes both native iOS app development and responsive web design (like this site!). I am obsessed with fine details and am not satisfied unless any work I do is pixel perfect, both in terms of design and performance. I love coding, and hope we can work together to make your mobile/web idea become a reality. 
 				</p>
 <hr width="70%">				
 				
@@ -334,6 +334,35 @@ PROJECTS
 					
 				</div> <!-- project close -->
 				
+
+					
+				<div class="project">
+					<h3 class="project-header">Flee</h3>
+						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
+						<div class="flexslider-wrapper">
+							<div class="flexslider">
+							  <ul class="slides">
+							    <li>
+							      <img src="images/projects/7-flee/flee1.jpg" />
+							    </li>
+							    <li>
+							      <img src="images/projects/7-flee/flee2.jpg" />
+							    </li>
+							  </ul>
+							</div>
+						</div>
+						
+						<div class="project-text-wrapper-outer">
+						<div class="project-text-wrapper-inner">
+						<p class="project-text">Flee is a native iPad application built for a Toronto startup that allows users to check out and book plans for a variety of overlooked travel destinations throughout North America using individualized recommendations based on a custom backend API. The app is synced with Flee’s <a href="http://setmeflee.com/" target="_blank">web application</a> and features custom iOS UI components. Coming soon to the App Store.<br> 
+</p>	
+						</div>
+						</div>
+				</div> <!-- project close -->
+				
+				
+					<div class="project-spacer"></div>
+				
 				<div class="project">
 					<h3 class="project-header">Toronto Park Finder</h3>
 						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
@@ -361,38 +390,7 @@ PROJECTS
 						</div>
 		
 				</div> <!-- project close -->
-					
 
-				
-				
-					<div class="project-spacer"></div>
-				
-				
-				<div class="project">
-					<h3 class="project-header">Retro Rooster</h3>
-						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
-						<div class="flexslider-wrapper">
-							<div class="flexslider">
-							  <ul class="slides">
-							    <li>
-							      <img src="images/projects/1-retro/retro1.jpg" />
-							</li>
-							    <li>
-							      <img src="images/projects/1-retro/retro2.jpg" />
-							    </li>
-							  </ul>
-							</div>
-						</div>
-						
-						<div class="project-text-wrapper-outer">
-						<div class="project-text-wrapper-inner">
-						
-						<p class="project-text">Retro Rooster is a native iOS application written in Objective-C that puts a gamification spin on the traditional alarm clock. When the alarm goes off, the user can either snooze or ‘shake to wake’. Once the iPhone is shaken, the user will have to play a mini-game using accelerometer control and gestures to prove that their brain is awake. This is my first native iOs app.    
-  
-</p>	
-						</div>
-						</div>
-				</div> <!-- project close -->
 								
 				<div class="project">		
 					<h3 class="project-header">Mess With Mitt</h3>
@@ -418,6 +416,35 @@ PROJECTS
 						</div>
 						</div>
 				</div> <!-- project close -->
+
+					<div class="project-spacer"></div>
+
+				<div class="project">
+					<h3 class="project-header">Retro Rooster</h3>
+						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
+						<div class="flexslider-wrapper">
+							<div class="flexslider">
+							  <ul class="slides">
+							    <li>
+							      <img src="images/projects/1-retro/retro1.jpg" />
+							</li>
+							    <li>
+							      <img src="images/projects/1-retro/retro2.jpg" />
+							    </li>
+							  </ul>
+							</div>
+						</div>
+						
+						<div class="project-text-wrapper-outer">
+						<div class="project-text-wrapper-inner">
+						
+						<p class="project-text">Retro Rooster is a native iOS application written in Objective-C that puts a gamification spin on the traditional alarm clock. When the alarm goes off, the user can either snooze or ‘shake to wake’. Once the iPhone is shaken, the user will have to play a mini-game using accelerometer control and gestures to prove that their brain is awake. This is my first native iOs app.    
+  
+</p>	
+						</div>
+						</div>
+				</div> <!-- project close -->
+
 <!-- 			</article> -->
 			</div>	
 			
