@@ -251,7 +251,9 @@ ABOUT
 				</header>
 				
 				<p class="section-description-black-bg">
-						My passion lies in mobile development, which includes both native iOS app development and responsive web design (like this site!). I am obsessed with fine details and am not satisfied unless any work I do is pixel perfect, both in terms of design and performance. I love coding, and hope we can work together to make your mobile/web idea become a reality. 
+						My passion lies in mobile development, which includes both native iOS app development and responsive web design. I am obsessed with fine details and am not satisfied unless any work I do is pixel perfect.
+						<br><br>
+						I am currently an iOS developer at The Working Group in Toronto, and have contributed clean code in a Git version control environment for large clients such as TSN and Sobeys. I also work on personal projects and enjoy the occasional hackathon.
 				</p>
 <hr width="70%">				
 				
@@ -323,7 +325,7 @@ PROJECTS
 						<div class="project-text-wrapper-outer">
 						<div class="project-text-wrapper-inner">
 						
-						<p class="project-text">Sushi Snob is a native iOS application written Objective-C that helps sushi fans navigate to the closest sushi restaurant via a live compass. It also features custom maps and allows the user share their favorite sushi memories. Sushi Snob is integrated with the FourSquare API for restaurant information and uses all custom design. For a live web demo, please visit <a href="https://app.io/20NqQA" target="_blank">App.io</a>, but please note that the compass only works on the device.<br>   
+						<p class="project-text">Sushi Snob is a native iOS application written Objective-C that helps sushi fans navigate to the closest sushi restaurant via a live compass. It also features custom maps and allows the user share their favorite sushi memories. Sushi Snob is integrated with the FourSquare API for restaurant information and uses all custom design.<br>   
 </p>	
 						<div style="margin-top:5px">
 							<a href="https://itunes.apple.com/us/app/sushi-snob/id664768328?mt=8&uo=4" target="_blank"><img src="images/Available_on_the_App_Store_Badge_US-UK_135x40.svg"/></a>
@@ -418,32 +420,6 @@ PROJECTS
 				</div> <!-- project close -->
 
 					<div class="project-spacer"></div>
-
-				<div class="project">
-					<h3 class="project-header">Retro Rooster</h3>
-						<!-- <img onclick="alert('shit')" id="cat" src="images/toronto.jpg"></img> -->
-						<div class="flexslider-wrapper">
-							<div class="flexslider">
-							  <ul class="slides">
-							    <li>
-							      <img src="images/projects/1-retro/retro1.jpg" />
-							</li>
-							    <li>
-							      <img src="images/projects/1-retro/retro2.jpg" />
-							    </li>
-							  </ul>
-							</div>
-						</div>
-						
-						<div class="project-text-wrapper-outer">
-						<div class="project-text-wrapper-inner">
-						
-						<p class="project-text">Retro Rooster is a native iOS application written in Objective-C that puts a gamification spin on the traditional alarm clock. When the alarm goes off, the user can either snooze or ‘shake to wake’. Once the iPhone is shaken, the user will have to play a mini-game using accelerometer control and gestures to prove that their brain is awake. This is my first native iOs app.    
-  
-</p>	
-						</div>
-						</div>
-				</div> <!-- project close -->
 
 <!-- 			</article> -->
 			</div>	
